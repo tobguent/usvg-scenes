@@ -1,0 +1,166 @@
+<!DOCTYPE SceneXML>
+<scene image_width ="512" image_height="512">
+  <curve_set nb_curves="1" >
+    <curve nb_control_points="13" nb_right_colors="7" nb_left_colors="6" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="360" x="190" />
+        <control_point y="324.5" x="173.5" />
+        <control_point y="295" x="185" />
+        <control_point y="278.5" x="200" />
+        <control_point y="261.7243982379279" x="215.2505470564292" />
+        <control_point y="253" x="236" />
+        <control_point y="255" x="262" />
+        <control_point y="256.6124515496597" x="282.9618701455762" />
+        <control_point y="265" x="298.5" />
+        <control_point y="281" x="312.5" />
+        <control_point y="296.6601065785995" x="326.2025932562746" />
+        <control_point y="325.5" x="334" />
+        <control_point y="357.5" x="321" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="158" B="45" globalID="0" R="255" />
+        <right_color G="187" B="32" globalID="6" R="254" />
+        <right_color G="222" B="42" globalID="12" R="254" />
+        <right_color G="234" B="68" globalID="18" R="255" />
+        <right_color G="222" B="42" globalID="24" R="254" />
+        <right_color G="187" B="32" globalID="32" R="254" />
+        <right_color G="158" B="45" globalID="40" R="255" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="163" B="43" globalID="0" R="255" />
+        <left_color G="209" B="34" globalID="6" R="255" />
+        <left_color G="253" B="166" globalID="11" R="255" />
+        <left_color G="253" B="166" globalID="25" R="255" />
+        <left_color G="209" B="34" globalID="33" R="255" />
+        <left_color G="171" B="41" globalID="40" R="255" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="40" />
+      </blur_points_set>
+    </curve>
+  </curve_set>
+  
+  <poisson_curve_set nb_curves="0">
+  </poisson_curve_set>
+  
+  <mesh_set nb_meshes="1">
+    <mesh nb_rows="10" nb_cols="3" nb_positions="44" nb_colors="44" normalized="1">
+      <position_set>
+        <position x="0.0" y ="0.0" />
+        <position x="0.3333333333" y ="0.0" />
+        <position x="0.6666666667" y ="0.0" />
+        <position x="1.0" y ="0.0" />
+
+        <position x="0.0" y ="0.075" />
+        <position x="0.3333333333" y ="0.075" />
+        <position x="0.6666666667" y ="0.075" />
+        <position x="1.0" y ="0.075" />
+
+        <position x="0.0" y ="0.15" />
+        <position x="0.3333333333" y ="0.15" />
+        <position x="0.6666666667" y ="0.15" />
+        <position x="1.0" y ="0.15" />
+
+        <position x="0.0" y ="0.225" />
+        <position x="0.3333333333" y ="0.225" />
+        <position x="0.6666666667" y ="0.225" />
+        <position x="1.0" y ="0.225" />
+
+        <position x="0.0" y ="0.3" />
+        <position x="0.15" y ="0.3" />
+        <position x="0.6666666667" y ="0.3" />
+        <position x="1.0" y ="0.3" />
+
+        <position x="0.0" y ="0.4" />
+        <position x="0.3333333333" y ="0.35" />
+        <position x="0.6666666667" y ="0.4" />
+        <position x="1.0" y ="0.4" />
+
+        <position x="0.0" y ="0.5" />
+        <position x="0.45" y ="0.5" />
+        <position x="0.8333333333" y ="0.5" />
+        <position x="1.0" y ="0.5" />
+
+        <position x="0.0" y ="0.6" />
+        <position x="0.3333333333" y ="0.6" />
+        <position x="0.6666666667" y ="0.6" />
+        <position x="1.0" y ="0.6" />
+
+        <position x="0.0" y ="0.7" />
+        <position x="0.3333333333" y ="0.7" />
+        <position x="0.6666666667" y ="0.7" />
+        <position x="1.0" y ="0.7" />
+
+        <position x="0.0" y ="0.85" />
+        <position x="0.3333333333" y ="0.85" />
+        <position x="0.6666666667" y ="0.85" />
+        <position x="1.0" y ="0.85" />
+
+        <position x="0.0" y ="1.0" />
+        <position x="0.3333333333" y ="1.0" />
+        <position x="0.6666666667" y ="1.0" />
+        <position x="1.0" y ="1.0" />
+      </position_set>
+
+      <color_set>
+        <color R="98" G="109" B="118"/>
+        <color R="101" G="106" B="133"/>
+        <color R="105" G="117" B="130"/>
+        <color R="99" G="114" B="127"/>
+
+        <color R="108" G="113" B="133"/>
+        <color R="111" G="121" B="134"/>
+        <color R="115" G="125" B="137"/>
+        <color R="115" G="126" B="136"/>
+
+        <color R="128" G="138" B="140"/>
+        <color R="120" G="129" B="138"/>
+        <color R="125" G="133" B="139"/>
+        <color R="131" G="140" B="142"/>
+
+        <color R="130" G="140" B="138"/>
+        <color R="133" G="142" B="144"/>
+        <color R="150" G="150" B="151"/>
+        <color R="145" G="151" B="149"/>
+
+        <color R="151" G="152" B="146"/>
+        <color R="154" G="145" B="145"/>
+        <color R="160" G="158" B="150"/>
+        <color R="162" G="161" B="156"/>
+
+        <color R="166" G="159" B="147"/>
+        <color R="180" G="157" B="132"/>
+        <color R="176" G="167" B="152"/>
+        <color R="174" G="168" B="154"/>
+
+        <color R="184" G="174" B="141"/>
+        <color R="206" G="162" B="122"/>
+        <color R="191" G="165" B="140"/>
+        <color R="193" G="169" B="140"/>
+
+        <color R="224" G="166" B="113"/>
+        <color R="225" G="179" B="124"/>
+        <color R="220" G="175" B="122"/>
+        <color R="213" G="170" B="119"/>
+
+        <color R="254" G="147" B="60"/>
+        <color R="255" G="162" B="85"/>
+        <color R="255" G="159" B="80"/>
+        <color R="253" G="157" B="83"/>
+
+        <color R="249" G="100" B="25"/>
+        <color R="254" G="104" B="29"/>
+        <color R="254" G="107" B="35"/>
+        <color R="255" G="115" B="40"/>
+
+        <color R="254" G="70" B="42"/>
+        <color R="249" G="63" B="39"/>
+        <color R="253" G="63" B="34"/>
+        <color R="252" G="64" B="34"/>
+      </color_set>
+    </mesh>
+  </mesh_set>
+</scene>
+
+

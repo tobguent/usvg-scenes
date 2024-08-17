@@ -1,0 +1,571 @@
+<!DOCTYPE SceneXML>
+<scene image_height="1024" image_width="1024">
+  <curve_set nb_curves="9">
+    <!--curve 1-->
+    <curve nb_control_points="10" nb_right_colors="4" nb_left_colors="4" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="506.75" x="219.75" />
+        <control_point y="498" x="225.75" />
+        <control_point y="483.124776271827" x="242.1522171900479" />
+        <control_point y="477.5" x="253" />
+        <control_point y="474" x="259.75" />
+        <control_point y="466.7360899181155" x="284.4752670317444" />
+        <control_point y="466" x="293.75" />
+        <control_point y="464.75" x="309.5" />
+        <control_point y="463.25" x="342.5" />
+        <control_point y="472.5" x="359.5" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="157" B="230" globalID="0" R="97" />
+        <right_color G="150" B="230" globalID="13" R="88" />
+        <right_color G="199" B="234" globalID="19" R="165" />
+        <right_color G="144" B="227" globalID="30" R="78" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="153" B="231" globalID="0" R="85" />
+        <left_color G="144" B="232" globalID="7" R="44" />
+        <left_color G="154" B="233" globalID="21" R="69" />
+        <left_color G="150" B="224" globalID="30" R="108" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="30" />
+      </blur_points_set>
+    </curve>
+    <!--curve 2-->
+    <curve nb_control_points="13" nb_right_colors="5" nb_left_colors="8" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="744" x="272" />
+        <control_point y="744.75" x="281" />
+        <control_point y="752.25" x="290.75" />
+        <control_point y="755.5" x="302.125" />
+        <control_point y="762.5396579554594" x="326.7638028441079" />
+        <control_point y="762.7755965116078" x="361.0226139535689" />
+        <control_point y="756.5" x="386.125" />
+        <control_point y="751.7506488342657" x="405.1224046629374" />
+        <control_point y="738.976654216273" x="426.3307387120393" />
+        <control_point y="726" x="441" />
+        <control_point y="712.380773751573" x="456.3956470634392" />
+        <control_point y="693" x="476.375" />
+        <control_point y="678.5" x="482" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="184" B="226" globalID="0" R="82" />
+        <right_color G="177" B="228" globalID="13" R="106" />
+        <right_color G="249" B="232" globalID="14" R="254" />
+        <right_color G="162" B="234" globalID="19" R="0" />
+        <right_color G="175" B="229" globalID="40" R="80" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="202" B="231" globalID="0" R="211" />
+        <left_color G="224" B="194" globalID="13" R="254" />
+        <left_color G="254" B="255" globalID="14" R="253" />
+        <left_color G="254" B="255" globalID="14" R="253" />
+        <left_color G="219" B="229" globalID="16" R="244" />
+        <left_color G="187" B="236" globalID="17" R="192" />
+        <left_color G="180" B="233" globalID="29" R="136" />
+        <left_color G="177" B="240" globalID="40" R="129" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="40" />
+      </blur_points_set>
+    </curve>
+    <!--curve 3-->
+    <curve nb_control_points="10" nb_right_colors="4" nb_left_colors="2" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="550.5" x="183.25" />
+        <control_point y="561" x="176.25" />
+        <control_point y="604.0313635321905" x="173.0812597313306" />
+        <control_point y="623.5" x="174.75" />
+        <control_point y="641" x="176.25" />
+        <control_point y="661.1669222927939" x="182.4584611463969" />
+        <control_point y="674.75" x="189.25" />
+        <control_point y="690.75" x="197.25" />
+        <control_point y="700.5" x="203.25" />
+        <control_point y="713" x="214" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="154" B="233" globalID="0" R="81" />
+        <right_color G="170" B="228" globalID="14" R="50" />
+        <right_color G="166" B="227" globalID="22" R="2" />
+        <right_color G="155" B="228" globalID="30" R="60" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="149" B="229" globalID="0" R="80" />
+        <left_color G="181" B="236" globalID="30" R="124" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="30" />
+      </blur_points_set>
+    </curve>
+    <!--curve 4-->
+    <curve nb_control_points="4" nb_right_colors="2" nb_left_colors="3" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="631" x="497" />
+        <control_point y="662" x="500.375" />
+        <control_point y="693" x="488.375" />
+        <control_point y="708" x="469" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="159" B="232" globalID="0" R="99" />
+        <right_color G="184" B="239" globalID="10" R="155" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="150" B="232" globalID="0" R="102" />
+        <left_color G="157" B="232" globalID="8" R="53" />
+        <left_color G="164" B="233" globalID="10" R="101" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="10" />
+      </blur_points_set>
+    </curve>
+    <!--curve 5-->
+    <curve nb_control_points="4" nb_right_colors="5" nb_left_colors="7" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="463.5" x="284.375" />
+        <control_point y="454" x="326.5" />
+        <control_point y="468" x="367.625" />
+        <control_point y="474" x="377.875" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="154" B="226" globalID="0" R="118" />
+        <right_color G="193" B="227" globalID="1" R="184" />
+        <right_color G="254" B="253" globalID="2" R="255" />
+        <right_color G="184" B="225" globalID="3" R="170" />
+        <right_color G="148" B="223" globalID="10" R="111" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="152" B="227" globalID="0" R="117" />
+        <left_color G="169" B="227" globalID="1" R="145" />
+        <left_color G="229" B="214" globalID="2" R="247" />
+        <left_color G="229" B="214" globalID="2" R="247" />
+        <left_color G="229" B="214" globalID="2" R="247" />
+        <left_color G="169" B="224" globalID="3" R="142" />
+        <left_color G="155" B="227" globalID="10" R="123" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="10" />
+      </blur_points_set>
+    </curve>
+    <!--curve 6-->
+    <curve nb_control_points="7" nb_right_colors="5" nb_left_colors="6" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="743.75" x="271.125" />
+        <control_point y="742" x="239.375" />
+        <control_point y="719.5" x="224.375" />
+        <control_point y="708" x="213.625" />
+        <control_point y="692.0410334993012" x="198.7068356623902" />
+        <control_point y="651.75" x="183.75" />
+        <control_point y="637.25" x="184.125" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="213" B="239" globalID="0" R="220" />
+        <right_color G="188" B="235" globalID="4" R="142" />
+        <right_color G="198" B="232" globalID="4" R="189" />
+        <right_color G="174" B="227" globalID="14" R="92" />
+        <right_color G="168" B="235" globalID="20" R="75" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="187" B="234" globalID="0" R="179" />
+        <left_color G="203" B="230" globalID="2" R="230" />
+        <left_color G="179" B="228" globalID="4" R="152" />
+        <left_color G="169" B="228" globalID="5" R="85" />
+        <left_color G="167" B="224" globalID="7" R="48" />
+        <left_color G="172" B="228" globalID="20" R="95" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="20" />
+      </blur_points_set>
+    </curve>
+    <!--curve 7-->
+    <curve nb_control_points="7" nb_right_colors="8" nb_left_colors="7" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="305.5" x="609.5" />
+        <control_point y="293.1632232795286" x="631.8604078058545" />
+        <control_point y="273.5" x="659.75" />
+        <control_point y="271.25" x="683.75" />
+        <control_point y="269.050419713538" x="707.2121897222618" />
+        <control_point y="274.5" x="727.25" />
+        <control_point y="292" x="740.5" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="141" B="217" globalID="0" R="27" />
+        <right_color G="145" B="214" globalID="11" R="94" />
+        <right_color G="152" B="229" globalID="12" R="158" />
+        <right_color G="152" B="229" globalID="12" R="158" />
+        <right_color G="253" B="251" globalID="13" R="252" />
+        <right_color G="156" B="236" globalID="14" R="167" />
+        <right_color G="153" B="227" globalID="15" R="73" />
+        <right_color G="160" B="220" globalID="20" R="71" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="139" B="216" globalID="0" R="24" />
+        <left_color G="135" B="195" globalID="10" R="4" />
+        <left_color G="213" B="239" globalID="12" R="1" />
+        <left_color G="213" B="239" globalID="12" R="1" />
+        <left_color G="254" B="254" globalID="13" R="254" />
+        <left_color G="226" B="246" globalID="14" R="106" />
+        <left_color G="174" B="222" globalID="20" R="83" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="20" />
+      </blur_points_set>
+    </curve>
+    <!--curve 8-->
+    <curve nb_control_points="10" nb_right_colors="5" nb_left_colors="5" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="460.5" x="574.75" />
+        <control_point y="473.5" x="581.75" />
+        <control_point y="494.2688045565161" x="606.9949390210875" />
+        <control_point y="501.5" x="646.25" />
+        <control_point y="505" x="665.25" />
+        <control_point y="502.8897995229283" x="697.4604363324503" />
+        <control_point y="491.5" x="722.25" />
+        <control_point y="483" x="740.75" />
+        <control_point y="466" x="755.75" />
+        <control_point y="450.625" x="768.125" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="155" B="227" globalID="0" R="95" />
+        <right_color G="206" B="225" globalID="7" R="118" />
+        <right_color G="156" B="225" globalID="8" R="88" />
+        <right_color G="136" B="223" globalID="14" R="72" />
+        <right_color G="135" B="222" globalID="30" R="59" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="175" B="234" globalID="0" R="81" />
+        <left_color G="226" B="247" globalID="6" R="127" />
+        <left_color G="254" B="254" globalID="7" R="254" />
+        <left_color G="209" B="248" globalID="9" R="101" />
+        <left_color G="140" B="211" globalID="30" R="61" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="30" />
+      </blur_points_set>
+    </curve>
+    <!--curve 9-->
+    <curve nb_control_points="10" nb_right_colors="5" nb_left_colors="2" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="314.25" x="593.25" />
+        <control_point y="330.25" x="574" />
+        <control_point y="336.6623988268277" x="566.5163289694692" />
+        <control_point y="362.5" x="557.75" />
+        <control_point y="385.5617194677399" x="549.9254880377312" />
+        <control_point y="415.2634955501714" x="547.8053982200686" />
+        <control_point y="434.5" x="555.5" />
+        <control_point y="448.25" x="561" />
+        <control_point y="454.5" x="563.25" />
+        <control_point y="469.25" x="579" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="139" B="215" globalID="0" R="28" />
+        <right_color G="149" B="224" globalID="11" R="51" />
+        <right_color G="150" B="218" globalID="18" R="66" />
+        <right_color G="140" B="214" globalID="26" R="73" />
+        <right_color G="182" B="220" globalID="30" R="118" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="148" B="220" globalID="0" R="3" />
+        <left_color G="200" B="249" globalID="30" R="92" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="30" />
+      </blur_points_set>
+    </curve>
+  </curve_set>
+  
+  <poisson_curve_set nb_poisson_curves="0">
+  </poisson_curve_set>
+  
+  <mesh_set nb_meshes="3">
+    <!--mesh 1-->
+    <mesh nb_cols="1" nb_rows="3" nb_positions ="8" nb_colors="8" normalized="1">
+      <position_set>
+        <position x="0.000000" y="0.000000"/>
+        <position x="1.0" y="0.000000"/>
+
+        <position x="0.0" y="0.1667"/>
+        <position x="1.0" y="0.1667"/>
+
+        <position x="0.0" y="0.85544922"/>
+        <position x="1.0" y="0.85544922"/>
+
+        <position x="0.0" y="1.000000"/>
+        <position x="1.0" y="1.000000"/>
+     </position_set>
+
+      <color_set>
+        <color R="7" G="138" B="223"/>
+        <color R="0" G="126" B="217"/>
+
+        <color R="6" G="139" B="222"/>
+        <color R="0" G="125" B="217"/>
+
+        <color R="148" G="194" B="240"/>
+        <color R="127" G="181" B="239"/>
+
+        <color R="149" G="193" B="240"/>
+        <color R="135" G="184" B="240"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 2-->
+    <mesh nb_cols="4" nb_rows="4" nb_positions="25" nb_colors="25" normalized="0">
+      <position_set>
+        <position x="197.81" y="506.18"/>
+        <position x="242.13" y="468.08"/>
+        <position x="365.88" y="461.79"/>
+        <position x="420.44" y="492.26"/>
+        <position x="441.86" y="511.48"/>
+
+        <position x="175.6" y="545.94"/>
+        <position x="221.77" y="514.09"/>
+        <position x="374.95" y="508.16"/>
+        <position x="439.45" y="528.98"/>
+        <position x="467.04" y="540.85"/>
+
+        <position x="165.95" y="606.25"/>
+        <position x="209.67" y="598.49"/>
+        <position x="376.05" y="599.82"/>
+        <position x="462.52" y="600.89"/>
+        <position x="497.52" y="600.93"/>
+
+        <position x="175.5" y="656.36"/>
+        <position x="212.47" y="668.96"/>
+        <position x="370.75" y="684.63"/>
+        <position x="460.8" y="674.31"/>
+        <position x="500.83" y="657.91"/>
+
+        <position x="200.9" y="705.83"/>
+        <position x="232.04" y="735.43"/>
+        <position x="347.11" y="771.81"/>
+        <position x="416.8" y="754.86"/>
+        <position x="455.22" y="729.48"/>
+      </position_set>
+
+      <color_set>
+        <color R="80" G="145" B="224"/>
+        <color R="118" G="144" B="216"/>
+        <color R="116" G="144" B="217"/>
+        <color R="90" G="136" B="223"/>
+        <color R="58" G="138" B="224"/>
+
+        <color R="89" G="153" B="231"/>
+        <color R="77" G="155" B="235"/>
+        <color R="101" G="158" B="233"/>
+        <color R="142" G="166" B="237"/>
+        <color R="58" G="133" B="224"/>
+
+        <color R="108" G="170" B="234"/>
+        <color R="95" G="170" B="228"/>
+        <color R="103" G="170" B="230"/>
+        <color R="110" G="164" B="233"/>
+        <color R="98" G="151" B="232"/>
+
+        <color R="127" G="180" B="234"/>
+        <color R="107" G="182" B="228"/>
+        <color R="126" G="186" B="240"/>
+        <color R="115" G="178" B="233"/>
+        <color R="117" G="169" B="232"/>
+
+        <color R="140" G="188" B="236"/>
+        <color R="177" G="210" B="235"/>
+        <color R="225" G="227" B="231"/>
+        <color R="201" G="217" B="236"/>
+        <color R="192" G="216" B="238"/>
+      </color_set>
+
+      <pos_tangent_set>
+        <positionU x="42.69" y="-50.97"/>
+        <positionV x="-29.16" y="36.75"/>
+        <positionU x="85.86" y="-49.14"/>
+        <positionV x="-25.47" y="35.55"/>
+        <positionU x="86.64" y="35.07"/>
+        <positionV x="7.86" y="21.3"/>
+        <positionU x="34.8" y="26.805"/>
+        <positionV x="18.51" y="21.27"/>
+        <positionU x="18.09" y="18.22"/>
+        <positionV x="22.02" y="20.22"/>
+
+        <positionU x="40.95" y="-42.15"/>
+        <positionV x="-17.94" y="50.16"/>
+        <positionU x="83.61" y="-38.67"/>
+        <positionV x="-18.24" y="65.055"/>
+        <positionU x="114.45" y="26.565"/>
+        <positionV x="2.745" y="54.3"/>
+        <positionU x="44.73" y="18.75"/>
+        <positionV x="27.28" y="44.52"/>
+        <positionU x="20.22" y="12.78"/>
+        <positionV x="30.63" y="43.02"/>
+
+        <positionU x="35.25" y="-12.6"/>
+        <positionV x="1.26" y="55.485"/>
+        <positionU x="76.065" y="-3.48"/>
+        <positionV x="-3.015" y="80.865"/>
+        <positionU x="141.03" y="2.94"/>
+        <positionV x="-1.83" y="78.09"/>
+        <positionU x="48.855" y="-0.09"/>
+        <positionV x="10.53" y="78.57"/>
+        <positionU x="27.18" y="2.01"/>
+        <positionV x="17.91" y="61.395"/>
+
+        <positionU x="31.05" y="9.18"/>
+        <positionV x="15.78" y="52.71"/>
+        <positionU x="70.5" y="22.41"/>
+        <positionV x="9.21" y="74.37"/>
+        <positionU x="139.86" y="-3.93"/>
+        <positionV x="-9.15" y="80.23"/>
+        <positionU x="51.885" y="-13.995"/>
+        <positionV x="-16.35" y="82.47"/>
+        <positionU x="32.7" y="-18.3"/>
+        <positionV x="-11.7" y="65.745"/>
+
+        <positionU x="26.85" y="30.78"/>
+        <positionV x="34.23" y="45.63"/>
+        <positionU x="64.98" y="48.12"/>
+        <positionV x="25.92" y="46.98"/>
+        <positionU x="99.3" y="-3"/>
+        <positionV x="-45.15" y="58.38"/>
+        <positionU x="54.915" y="-27.78"/>
+        <positionV x="-72.96" y="63.09"/>
+        <positionU x="37.95" y="-31.38"/>
+        <positionV x="-80.25" y="64.29"/>
+      </pos_tangent_set>
+     
+    </mesh>
+
+    <!--mesh 3-->
+    <mesh nb_cols="4" nb_rows="4" nb_positions="25" nb_colors="25" normalized="0">
+      <position_set>
+        <position x="590.35" y="305.34"/>
+        <position x="644.48" y="273.68"/>
+        <position x="695.18" y="262.12"/>
+        <position x="753.04" y="285.2"/>
+        <position x="778.89" y="319.77"/>
+
+        <position x="547.32" y="363.61"/>
+        <position x="604.05" y="332.21"/>
+        <position x="690.09" y="306.97"/>
+        <position x="763.43" y="335.34"/>
+        <position x="795.33" y="358.13"/>
+
+        <position x="538.84" y="403.4"/>
+        <position x="566.2"  y="492.32"/>
+        <position x="679.28" y="390.45"/>
+        <position x="772.22" y="385.48"/>
+        <position x="801.23" y="394.72"/>
+
+        <position x="551.14" y="446.89"/>
+        <position x="580.86" y="467.34"/>
+        <position x="656.83" y="495.61"/>
+        <position x="759.34" y="455.6"/>
+        <position x="789.52" y="436.24"/>
+
+        <position x="574.82" y="478.79"/>
+        <position x="610.91" y="499.4"/>
+        <position x="656.29" y="509.78"/>
+        <position x="714.09" y="501.13"/>
+        <position x="755.04" y="479.23"/>
+      </position_set>
+
+      <color_set>
+        <color R="28" G="145" B="215"/>
+        <color R="17" G="151" B="217"/>
+        <color R="137" G="152" B="225"/>
+        <color R="50" G="146" B="218"/>
+        <color R="56" G="144" B="218"/>
+
+        <color R="49" G="152" B="224"/>
+        <color R="47" G="143" B="218"/>
+        <color R="56" G="133" B="219"/>
+        <color R="86" G="183" B="223"/>
+        <color R="51" G="145" B="221"/>
+
+        <color R="76" G="158" B="231"/>
+        <color R="78" G="155" B="223"/>
+        <color R="94" G="152" B="226"/>
+        <color R="49" G="145" B="227"/>
+        <color R="53" G="149" B="226"/>
+
+        <color R="88" G="180" B="243"/>
+        <color R="79" G="159" B="220"/>
+        <color R="76" G="141" B="213"/>
+        <color R="57" G="143" B="218"/>
+        <color R="69" G="152" B="220"/>
+
+        <color R="82" G="178" B="241"/>
+        <color R="83" G="191" B="243"/>
+        <color R="109" G="202" B="248"/>
+        <color R="109" G="191" B="246"/>
+        <color R="79" G="170" B="235"/>
+      </color_set>
+
+      <pos_tangents_set>
+        <positionU x="57.51" y="-41.85"/>
+        <positionV x="-66.27" y="42.33"/>
+        <positionU x="79.815" y="-38.175"/>
+        <positionV x="-55.8" y="41.61"/>
+        <positionU x="81.84" y="-5.715"/>
+        <positionV x="1.35" y="51.03"/>
+        <positionU x="39.06" y="36.39"/>
+        <positionV x="15.93" y="63.3"/>
+        <positionU x="22.83" y="42.21"/>
+        <positionV x="17.22" y="36.6"/>
+
+        <positionU x="53.01" y="-33.45"/>
+        <positionV x="-21.30" y="46.785"/>
+        <positionU x="87.33" y="-83.295"/>
+        <positionV x="-103.05" y="142.695"/>
+        <positionU x="86.145" y="6.855"/>
+        <positionV x="-32.535" y="64.965"/>
+        <positionU x="45.00" y="22.965"/>
+        <positionV x="12.345" y="40.17"/>
+        <positionU x="22.56" y="30.63"/>
+        <positionV x="11.865" y="36.03"/>
+
+        <positionU x="48.42" y="-12.72"/>
+        <positionV x="1.08" y="42.225"/>
+        <positionU x="70.5" y="-27.81"/>
+        <positionV x="-52.7400" y="73.6500"/>
+        <positionU x="114.0150" y="4.7550"/>
+        <positionV x="3.0150" y="100.2000"/>
+        <positionU x="59.3550" y="-6.5700"/>
+        <positionV x="3.8400" y="65.4000"/>
+        <positionU x="24.8400" y="-100.9200"/>
+        <positionV x="0.1050" y="39.8550"/>
+
+        <positionU x="78.9" y="145.23"/>
+        <positionV x="20.31" y="37.455" />
+        <positionU x="52.47" y="30.06" />
+        <positionV x="44.835" y="33.375" />
+        <positionU x="94.53" y="13.65" />
+        <positionV x="8.07" y="43.26" />
+        <positionU x="54.09" y="-67.95" />
+        <positionV x="-32.94" y="57.015" />
+        <positionU x="19.98" y="-17.94" />
+        <positionV x="-23.73" y="44.205" />
+
+        <positionU x="39.06" y="29.76" />
+        <positionV x="27.87" y="29.31" />
+        <positionU x="43.11" y="15.795" />
+        <positionV x="41.37" y="33.66" />
+        <positionU x="51.33" y="3.765" />
+        <positionV x="-5.04" y="13.47" />
+        <positionU x="45.135" y="-16.32" />
+        <positionV x="-66.21" y="55.95" />
+        <positionU x="21.39" y="-17.37" />
+        <positionV x="-48.39" y="45.54" />
+      </pos_tangents_set>
+
+      
+    </mesh>
+  </mesh_set>
+</scene>

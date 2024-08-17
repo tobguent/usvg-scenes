@@ -1,0 +1,238 @@
+<!DOCTYPE SceneXML>
+<scene image_width ="935" image_height="935">
+  <curve_set nb_curves="0" >
+  </curve_set>
+  <poisson_curve_set nb_poisson_curves="0">
+  </poisson_curve_set>
+  <mesh_set nb_meshes="12">
+    <!--mesh 1-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="1" y ="21" />
+        <position x="108" y ="21" />
+
+        <position x="1" y ="307" />
+        <position x="108" y ="307" />
+      </position_set>
+
+      <color_set>
+        <color R="217" G="221" B="223"/>
+        <color R="216" G="211" B="211"/>
+
+        <color R="232" G="233" B="229"/>
+        <color R="212" G="204" B="205"/>
+      </color_set>
+    </mesh>
+  
+    <!--mesh 2-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="128" y ="21" />
+        <position x="718" y ="21" />
+
+        <position x="128" y ="611" />
+        <position x="718" y ="611" />
+      </position_set>
+
+      <color_set>
+        <color R="219" G="76" B="60"/>
+        <color R="194" G="79" B="49"/>
+
+        <color R="211" G="72" B="56"/>
+        <color R="218" G="72" B="56"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 3-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="738" y ="21" />
+        <position x="934" y ="21" />
+
+        <position x="738" y ="300" />
+        <position x="934" y ="300" />
+      </position_set>
+
+      <color_set>
+        <color R="229" G="187" B="75"/>
+        <color R="242" G="193" B="73"/>
+
+        <color R="227" G="168" B="78"/>
+        <color R="232" G="187" B="77"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 4-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="1" y ="327" />
+        <position x="108" y ="327" />
+
+        <position x="1" y ="765" />
+        <position x="108" y ="765" />
+      </position_set>
+
+      <color_set>
+        <color R="206" G="212" B="216"/>
+        <color R="183" G="188" B="193"/>
+
+        <color R="189" G="197" B="201"/>
+        <color R="183" G="190" B="200"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 5-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="1" y ="785" />
+        <position x="108" y ="785" />
+
+        <position x="1" y ="934" />
+        <position x="108" y ="934" />
+      </position_set>
+
+      <color_set>
+        <color R="240" G="190" B="80"/>
+        <color R="229" G="182" B="75"/>
+
+        <color R="245" G="196" B="78"/>
+        <color R="232" G="185" B="67"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 6-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="128" y ="631" />
+        <position x="413" y ="631" />
+
+        <position x="128" y ="765" />
+        <position x="413" y ="765" />
+      </position_set>
+
+      <color_set>
+        <color R="20" G="18" B="19"/>
+        <color R="19" G="21" B="16"/>
+
+        <color R="22" G="26" B="21"/>
+        <color R="23" G="30" B="23"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 7-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="433" y ="631" />
+        <position x="718" y ="631" />
+
+        <position x="433" y ="765" />
+        <position x="718" y ="765" />
+      </position_set>
+
+      <color_set>
+        <color R="167" G="172" B="186"/>
+        <color R="185" G="196" B="210"/>
+
+        <color R="175" G="179" B="193"/>
+        <color R="184" G="191" B="202"/>
+      </color_set>
+    </mesh>
+    
+    <!--mesh 8-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="128" y ="785" />
+        <position x="413" y ="785" />
+
+        <position x="128" y ="915" />
+        <position x="413" y ="915" />
+      </position_set>
+
+      <color_set>
+        <color R="14" G="10" B="17"/>
+        <color R="10" G="18" B="14"/>
+
+        <color R="18" G="17" B="16"/>
+        <color R="16" G="17" B="18"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 9-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="433" y ="785" />
+        <position x="718" y ="785" />
+
+        <position x="433" y ="915" />
+        <position x="718" y ="915" />
+      </position_set>
+
+      <color_set>
+        <color R="183" G="189" B="201"/>
+        <color R="188" G="194" B="201"/>
+
+        <color R="167" G="175" B="192"/>
+        <color R="175" G="183" B="196"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 10-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="738" y ="320" />
+        <position x="914" y ="320" />
+
+        <position x="738" y ="611" />
+        <position x="914" y ="611" />
+      </position_set>
+
+      <color_set>
+        <color R="186" G="189" B="190"/>
+        <color R="215" G="209" B="202"/>
+
+        <color R="215" G="210" B="209"/>
+        <color R="217" G="216" B="224"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 11-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="738" y ="631" />
+        <position x="934" y ="631" />
+
+        <position x="738" y ="765" />
+        <position x="934" y ="765" />
+      </position_set>
+
+      <color_set>
+        <color R="196" G="198" B="204"/>
+        <color R="211" G="211" B="212"/>
+
+        <color R="198" G="199" B="206"/>
+        <color R="219" G="216" B="216"/>
+      </color_set>
+    </mesh>
+
+    <!--mesh 12-->
+    <mesh nb_rows="1" nb_cols="1" nb_positions="4" nb_colors="4" normalized="0">
+      <position_set>
+        <position x="738" y ="785" />
+        <position x="934" y ="785" />
+
+        <position x="738" y ="934" />
+        <position x="934" y ="934" />
+      </position_set>
+
+      <color_set>
+        <color R="29" G="70" B="122"/>
+        <color R="0" G="64" B="118"/>
+
+        <color R="12" G="67" B="112"/>
+        <color R="0" G="61" B="110"/>
+      </color_set>
+    </mesh>
+  </mesh_set>
+</scene>
+
+

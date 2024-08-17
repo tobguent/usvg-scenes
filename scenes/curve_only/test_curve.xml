@@ -1,0 +1,49 @@
+<!DOCTYPE SceneXML>
+<scene image_width ="512" image_height="512">
+  <curve_set nb_curves="1" >
+    <curve nb_control_points="13" nb_left_colors="7" nb_right_colors="6" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point x="360" y="190" />
+        <control_point x="324.5" y="173.5" />
+        <control_point x="295" y="185" />
+        <control_point x="278.5" y="200" />
+        <control_point x="261.7243982379279" y="215.2505470564292" />
+        <control_point x="253" y="236" />
+        <control_point x="255" y="262" />
+        <control_point x="256.6124515496597" y="282.9618701455762" />
+        <control_point x="265" y="298.5" />
+        <control_point x="281" y="312.5" />
+        <control_point x="296.6601065785995" y="326.2025932562746" />
+        <control_point x="325.5" y="334" />
+        <control_point x="357.5" y="321" />
+      </control_points_set>
+      <left_colors_set>
+        <left_color G="158" R="45" globalID="0" B="255" />
+        <left_color G="187" R="32" globalID="6" B="254" />
+        <left_color G="222" R="42" globalID="12" B="254" />
+        <left_color G="234" R="68" globalID="18" B="255" />
+        <left_color G="222" R="42" globalID="24" B="254" />
+        <left_color G="187" R="32" globalID="32" B="254" />
+        <left_color G="158" R="45" globalID="40" B="255" />
+      </left_colors_set>
+      <right_colors_set>
+        <right_color G="163" R="43" globalID="0" B="255" />
+        <right_color G="209" R="34" globalID="6" B="255" />
+        <right_color G="253" R="166" globalID="11" B="255" />
+        <right_color G="253" R="166" globalID="25" B="255" />
+        <right_color G="209" R="34" globalID="33" B="255" />
+        <right_color G="171" R="41" globalID="40" B="255" />
+      </right_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="40" />
+      </blur_points_set>
+    </curve>
+  </curve_set>
+  <poisson_curve_set nb_poisson_curves="0">
+  </poisson_curve_set>
+  <mesh_set nb_meshes="0">
+  </mesh_set>
+</scene>
+
+

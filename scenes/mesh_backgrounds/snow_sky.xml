@@ -1,0 +1,95 @@
+<!DOCTYPE SceneXML>
+<scene image_width ="512" image_height="512">
+  <curve_set nb_curves="0" >
+  </curve_set>
+  <poisson_curve_set nb_poisson_curves="0">
+  </poisson_curve_set>
+  <mesh_set nb_meshes="1">
+    <mesh nb_rows="12" nb_cols="1" nb_positions="26" nb_colors="26" normalized="1">
+      <position_set>
+        <position x="0.0" y ="0.0" />
+        <position x="1.0" y ="0.0" />
+
+        <position x="0.0" y ="0.08333333" />
+        <position x="1.0" y ="0.08333333" />
+
+        <position x="0.0" y ="0.16666667" />
+        <position x="1.0" y ="0.16666667" />
+
+        <position x="0.0" y ="0.25" />
+        <position x="1.0" y ="0.25" />
+
+        <position x="0.0" y ="0.33333333" />
+        <position x="1.0" y ="0.33333333" />
+
+        <position x="0.0" y ="0.41666667" />
+        <position x="1.0" y ="0.41666667" />
+
+        <position x="0.0" y ="0.5" />
+        <position x="1.0" y ="0.5" />
+
+        <position x="0.0" y ="0.58333333" />
+        <position x="1.0" y ="0.58333333" />
+
+        <position x="0.0" y ="0.66666667" />
+        <position x="1.0" y ="0.66666667" />
+
+        <position x="0.0" y ="0.75" />
+        <position x="1.0" y ="0.75" />
+
+        <position x="0.0" y ="0.83333333" />
+        <position x="1.0" y ="0.83333333" />
+
+        <position x="0.0" y ="0.91666667" />
+        <position x="1.0" y ="0.91666667" />
+
+        <position x="0.0" y ="1.0" />
+        <position x="1.0" y ="1.0" />
+      </position_set>
+
+      <color_set>
+        <color R="215" G="209" B="220"/>
+        <color R="215" G="208" B="219"/>
+
+        <color R="216" G="207" B="216"/>
+        <color R="220" G="210" B="218"/>
+
+        <color R="215" G="204" B="209"/>
+        <color R="218" G="202" B="209"/>
+
+        <color R="218" G="200" B="206"/>
+        <color R="217" G="199" B="205"/>
+
+        <color R="217" G="197" B="200"/>
+        <color R="212" G="192" B="200"/>
+
+        <color R="216" G="188" B="196"/>
+        <color R="214" G="184" B="190"/>
+
+        <color R="215" G="184" B="191"/>
+        <color R="211" G="181" B="189"/>
+
+        <color R="207" G="174" B="184"/>
+        <color R="206" G="166" B="185"/>
+
+        <color R="202" G="167" B="187"/>
+        <color R="200" G="164" B="185"/>
+
+        <color R="194" G="165" B="187"/>
+        <color R="190" G="161" B="185"/>
+
+        <color R="185" G="164" B="185"/>
+        <color R="179" G="160" B="184"/>
+
+        <color R="170" G="155" B="185"/>
+        <color R="179" G="160" B="184"/>
+
+        <color R="161" G="150" B="182"/>
+        <color R="147" G="146" B="183"/>
+      </color_set>
+      
+    </mesh>
+  </mesh_set>
+</scene>
+
+

@@ -1,0 +1,136 @@
+<!DOCTYPE SceneXML>
+<scene image_width ="512" image_height="512">
+  <curve_set nb_curves="0" >
+  </curve_set>
+  <poisson_curve_set nb_poisson_curves="0">
+  </poisson_curve_set>
+  <mesh_set nb_meshes="1">
+    <mesh nb_rows="11" nb_cols="3" nb_positions ="48" nb_colors ="48" normalized="1">
+      <position_set>
+        <position x="0.0" y ="0.0" />
+        <position x="0.3333333333" y ="0.0" />
+        <position x="0.6666666667" y ="0.0" />
+        <position x="1.0" y ="0.0" />
+
+        <position x="0.0" y ="0.1" />
+        <position x="0.3333333333" y ="0.1" />
+        <position x="0.6666666667" y ="0.1" />
+        <position x="1.0" y ="0.1" />
+
+        <position x="0.0" y ="0.2" />
+        <position x="0.3333333333" y ="0.2" />
+        <position x="0.6666666667" y ="0.2" />
+        <position x="1.0" y ="0.2" />
+
+        <position x="0.0" y ="0.3" />
+        <position x="0.3333333333" y ="0.3" />
+        <position x="0.6666666667" y ="0.3" />
+        <position x="1.0" y ="0.3" />
+
+        <position x="0.0" y ="0.37" />
+        <position x="0.3333333333" y ="0.37" />
+        <position x="0.6666666667" y ="0.37" />
+        <position x="1.0" y ="0.37" />
+
+        <position x="0.0" y ="0.4" />
+        <position x="0.3333333333" y ="0.4" />
+        <position x="0.6666666667" y ="0.4" />
+        <position x="1.0" y ="0.4" />
+
+        <position x="0.0" y ="0.5" />
+        <position x="0.3333333333" y ="0.5" />
+        <position x="0.6666666667" y ="0.5" />
+        <position x="1.0" y ="0.5" />
+
+        <position x="0.0" y ="0.6" />
+        <position x="0.3333333333" y ="0.6" />
+        <position x="0.6666666667" y ="0.6" />
+        <position x="1.0" y ="0.6" />
+
+        <position x="0.0" y ="0.7" />
+        <position x="0.3333333333" y ="0.7" />
+        <position x="0.6666666667" y ="0.7" />
+        <position x="1.0" y ="0.7" />
+
+        <position x="0.0" y ="0.8" />
+        <position x="0.3333333333" y ="0.8" />
+        <position x="0.6666666667" y ="0.8" />
+        <position x="1.0" y ="0.8" />
+
+        <position x="0.0" y ="0.9" />
+        <position x="0.3333333333" y ="0.9" />
+        <position x="0.6666666667" y ="0.9" />
+        <position x="1.0" y ="0.9" />
+
+        <position x="0.0" y ="1.0" />
+        <position x="0.3333333333" y ="1.0" />
+        <position x="0.6666666667" y ="1.0" />
+        <position x="1.0" y ="1.0" />
+      </position_set>
+      
+      <color_set>
+        <color R="153" G="213" B="254"/>
+        <color R="155" G="212" B="254"/>
+        <color R="153" G="213" B="254"/>
+        <color R="154" G="213" B="254"/>
+
+        <color R="163" G="214" B="248"/>
+        <color R="163" G="215" B="248"/>
+        <color R="163" G="215" B="251"/>
+        <color R="160" G="215" B="251"/>
+
+        <color R="168" G="211" B="235"/>
+        <color R="172" G="214" B="244"/>
+        <color R="173" G="213" B="245"/>
+        <color R="172" G="213" B="245"/>
+
+        <color R="170" G="210" B="233"/>
+        <color R="171" G="208" B="238"/>
+        <color R="171" G="208" B="240"/>
+        <color R="171" G="208" B="241"/>
+
+        <color R="140" G="196" B="232"/>
+        <color R="143" G="197" B="235"/>
+        <color R="143" G="198" B="238"/>
+        <color R="145" G="199" B="238"/>
+
+        <color R="95" G="176" B="228"/>
+        <color R="93" G="180" B="238"/>
+        <color R="96" G="182" B="242"/>
+        <color R="95" G="169" B="232"/>
+
+        <color R="73" G="169" B="237"/>
+        <color R="72" G="165" B="235"/>
+        <color R="73" G="167" B="233"/>
+        <color R="73" G="169" B="238"/>
+
+        <color R="51" G="146" B="218"/>
+        <color R="61" G="158" B="228"/>
+        <color R="42" G="149" B="225"/>
+        <color R="86" G="170" B="232"/>
+
+        <color R="41" G="142" B="214"/>
+        <color R="50" G="164" B="224"/>
+        <color R="39" G="159" B="225"/>
+        <color R="34" G="159" B="227"/>
+
+        <color R="10" G="148" B="202"/>
+        <color R="54" G="171" B="227"/>
+        <color R="29" G="157" B="220"/>
+        <color R="42" G="167" B="228"/>
+
+        <color R="19" G="158" B="217"/>
+        <color R="16" G="157" B="216"/>
+        <color R="12" G="152" B="213"/>
+        <color R="11" G="156" B="216"/>
+
+        <color R="10" G="148" B="196"/>
+        <color R="34" G="154" B="195"/>
+        <color R="1" G="150" B="204"/>
+        <color R="17" G="153" B="214"/>
+      </color_set>
+    </mesh>
+  </mesh_set>
+</scene>
+
+

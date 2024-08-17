@@ -1,0 +1,57 @@
+<!DOCTYPE SceneXML>
+<scene image_width ="512" image_height="512">
+  <curve_set nb_curves="0" >
+  </curve_set>
+  <poisson_curve_set nb_poisson_curves="0">
+  </poisson_curve_set>
+  <mesh_set nb_meshes="1">
+    <mesh nb_rows="3" nb_cols="3" nb_positions="16" nb_colors="16" normalized="0">
+      <position_set>
+        <position x="1" y ="1" />
+        <position x="171" y ="1" />
+        <position x="341" y ="1" />
+        <position x="511" y ="1" />
+
+        <position x="1" y ="171" />
+        <position x="171" y ="171" />
+        <position x="341" y ="171" />
+        <position x="511" y ="171" />
+
+        <position x="1" y ="341" />
+        <position x="171" y ="341" />
+        <position x="341" y ="341" />
+        <position x="511" y ="341" />
+
+        <position x="1" y ="511" />
+        <position x="171" y ="511" />
+        <position x="341" y ="511" />
+        <position x="511" y ="511" />
+      </position_set>
+
+      <color_set>
+        <color R="204" G="223" B="229"/>
+        <color R="190" G="215" B="224"/>
+        <color R="162" G="207" B="224"/>
+        <color R="181" G="215" B="224"/>
+
+        <color R="177" G="208" B="225"/>
+        <color R="188" G="213" B="226"/>
+        <color R="202" G="223" B="233"/>
+        <color R="194" G="220" B="233"/>
+
+        <color R="231" G="237" B="239"/>
+        <color R="156" G="197" B="219"/>
+        <color R="132" G="190" B="218"/>
+        <color R="149" G="201" B="226"/>
+
+        <color R="134" G="185" B="211"/>
+        <color R="128" G="179" B="206"/>
+        <color R="126" G="181" B="209"/>
+        <color R="163" G="205" B="225"/>
+      </color_set>
+
+    </mesh>
+  </mesh_set>
+</scene>
+
+

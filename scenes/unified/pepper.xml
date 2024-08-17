@@ -1,0 +1,3206 @@
+<!DOCTYPE SceneXML>
+<scene image_height="512" image_width="512">
+  <curve_set nb_curves="36">
+    <!--curve 1-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="22" nb_right_colors="13"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="132.4375" x="310.5"/>
+        <control_point y="125.3125" x="292"/>
+        <control_point y="124" x="286.25"/>
+        <control_point y="123.5" x="271.75"/>
+        <control_point y="123.0689" x="259.2474"/>
+        <control_point y="126.6701" x="260.9754"/>
+        <control_point y="131.5" x="240.75"/>
+        <control_point y="131.25" x="235.75"/>
+        <control_point y="130.2034" x="223.5466"/>
+        <control_point y="143" x="204.75"/>
+        <control_point y="152.5" x="192.25"/>
+        <control_point y="175.7139" x="180.7208"/>
+        <control_point y="189.5" x="179.75"/>
+        <control_point y="209.6141" x="177.0299"/>
+        <control_point y="243.5861" x="163.8534"/>
+        <control_point y="267.5" x="165.25"/>
+        <control_point y="286" x="167.75"/>
+        <control_point y="319.4015" x="179.5561"/>
+        <control_point y="345.5" x="193.75"/>
+        <control_point y="350.7485" x="196.6045"/>
+        <control_point y="354.25" x="197.9375"/>
+        <control_point y="361.75" x="201.3125"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="181" G="59" B="46" globalID="0"/>
+        <right_color R="201" G="110" B="81" globalID="2"/>
+        <right_color R="183" G="121" B="112" globalID="4"/>
+        <right_color R="183" G="121" B="112" globalID="17"/>
+        <right_color R="177" G="128" B="114" globalID="19"/>
+        <right_color R="176" G="131" B="125" globalID="26"/>
+        <right_color R="179" G="136" B="129" globalID="30"/>
+        <right_color R="136" G="71" B="67" globalID="32"/>
+        <right_color R="148" G="101" B="93" globalID="56"/>
+        <right_color R="142" G="97" B="90" globalID="59"/>
+        <right_color R="141" G="96" B="90" globalID="60"/>
+        <right_color R="113" G="13" B="17" globalID="65"/>
+        <right_color R="112" G="11" B="15" globalID="70"/>
+      </right_colors_set>
+      <left_colors_set boundarx="Neumann">
+        <left_color R="127" G="127" B="127" globalID="0"/>
+        <left_color R="127" G="127" B="127" globalID="70"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="70" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 2-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="40" nb_right_colors="26"
+             nb_left_colors="15">
+      <control_points_set>
+        <control_point y="132.4375" x="310.5"/>
+        <control_point y="139.7621" x="310.7991"/>
+        <control_point y="144.3678" x="309.2511"/>
+        <control_point y="146.75" x="308.875"/>
+        <control_point y="149.125" x="308.5"/>
+        <control_point y="148" x="307.375"/>
+        <control_point y="146.75" x="294.625"/>
+        <control_point y="147.3926" x="291.339"/>
+        <control_point y="143.5998" x="288.388"/>
+        <control_point y="142.75" x="284.875"/>
+        <control_point y="146.7422" x="282.182"/>
+        <control_point y="155.25" x="288.375"/>
+        <control_point y="152.75" x="272.875"/>
+        <control_point y="158.75" x="274.375"/>
+        <control_point y="161.2652" x="279.0771"/>
+        <control_point y="162.25" x="281.375"/>
+        <control_point y="165.25" x="288.375"/>
+        <control_point y="167.25" x="292.875"/>
+        <control_point y="180.75" x="306.375"/>
+        <control_point y="183.5491" x="309.1741"/>
+        <control_point y="182.1763" x="311.9947"/>
+        <control_point y="183.25" x="329.875"/>
+        <control_point y="185.0357" x="335.0305"/>
+        <control_point y="188.6081" x="336.7601"/>
+        <control_point y="189.25" x="339.375"/>
+        <control_point y="193.8919" x="342.9899"/>
+        <control_point y="187.3126" x="352.728"/>
+        <control_point y="183.75" x="359.625"/>
+        <control_point y="184.25" x="366.875"/>
+        <control_point y="172.75" x="365.875"/>
+        <control_point y="166.25" x="371.875"/>
+        <control_point y="164.3796" x="371.0602"/>
+        <control_point y="165.75" x="363.875"/>
+        <control_point y="160.25" x="357.125"/>
+        <control_point y="148.75" x="354.375"/>
+        <control_point y="155.0578" x="349.3563"/>
+        <control_point y="152.875" x="340.625"/>
+        <control_point y="152.5" x="339.125"/>
+        <control_point y="132.1736" x="340.1121"/>
+        <control_point y="123.75" x="338.375"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="75" G="49" B="36" globalID="0"/>
+        <right_color R="62" G="55" B="27" globalID="13"/>
+        <right_color R="100" G="118" B="66" globalID="15"/>
+        <right_color R="68" G="90" B="41" globalID="17"/>
+        <right_color R="103" G="120" B="60" globalID="20"/>
+        <right_color R="81" G="106" B="48" globalID="23"/>
+        <right_color R="103" G="120" B="60" globalID="33"/>
+        <right_color R="85" G="88" B="52" globalID="37"/>
+        <right_color R="78" G="77" B="49" globalID="38"/>
+        <right_color R="70" G="78" B="40" globalID="40"/>
+        <right_color R="72" G="77" B="45" globalID="47"/>
+        <right_color R="44" G="59" B="16" globalID="57"/>
+        <right_color R="85" G="95" B="41" globalID="61"/>
+        <right_color R="79" G="97" B="35" globalID="68"/>
+        <right_color R="85" G="95" B="41" globalID="69"/>
+        <right_color R="70" G="82" B="32" globalID="74"/>
+        <right_color R="60" G="47" B="16" globalID="80"/>
+        <right_color R="60" G="47" B="16" globalID="81"/>
+        <right_color R="57" G="40" B="12" globalID="85"/>
+        <right_color R="85" G="101" B="58" globalID="92"/>
+        <right_color R="85" G="101" B="58" globalID="100"/>
+        <right_color R="61" G="72" B="32" globalID="118"/>
+        <right_color R="68" G="77" B="34" globalID="120"/>
+        <right_color R="132" G="161" B="81" globalID="122"/>
+        <right_color R="96" G="98" B="48" globalID="124"/>
+        <right_color R="131" G="156" B="75" globalID="130"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="189" G="88" B="68" globalID="0"/>
+        <left_color R="166" G="32" B="29" globalID="37"/>
+        <left_color R="180" G="4" B="8" globalID="43"/>
+        <left_color R="219" G="116" B="101" globalID="44"/>
+        <left_color R="224" G="128" B="103" globalID="45"/>
+        <left_color R="213" G="104" B="75" globalID="55"/>
+        <left_color R="204" G="20" B="20" globalID="57"/>
+        <left_color R="204" G="20" B="20" globalID="74"/>
+        <left_color R="204" G="20" B="20" globalID="82"/>
+        <left_color R="157" G="30" B="23" globalID="84"/>
+        <left_color R="187" G="81" B="68" globalID="93"/>
+        <left_color R="151" G="37" B="27" globalID="94"/>
+        <left_color R="197" G="22" B="19" globalID="127"/>
+        <left_color R="193" G="77" B="54" globalID="129"/>
+        <left_color R="218" G="182" B="170" globalID="130"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="130" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 3-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="22" nb_right_colors="2"
+             nb_left_colors="12">
+      <control_points_set>
+        <control_point y="132.4375" x="310.5"/>
+        <control_point y="122.625" x="311.75"/>
+        <control_point y="108.3125" x="312.25"/>
+        <control_point y="107" x="300"/>
+        <control_point y="111.4282" x="284.3724"/>
+        <control_point y="124.9927" x="277.2415"/>
+        <control_point y="120" x="267.5"/>
+        <control_point y="117" x="263.75"/>
+        <control_point y="114.5" x="262.25"/>
+        <control_point y="104.5" x="262.75"/>
+        <control_point y="92.5463" x="266.172"/>
+        <control_point y="90.5" x="262.75"/>
+        <control_point y="87" x="270.25"/>
+        <control_point y="86.7954" x="274.773"/>
+        <control_point y="79.1944" x="292.9373"/>
+        <control_point y="82.5" x="312"/>
+        <control_point y="86.3487" x="324.6779"/>
+        <control_point y="95.4424" x="333.4921"/>
+        <control_point y="113" x="338"/>
+        <control_point y="119.9633" x="338.0405"/>
+        <control_point y="124.5" x="338.5"/>
+        <control_point y="123.75" x="338.375"/>
+      </control_points_set>
+      <right_colors_set boundarx="Neumann">
+        <right_color R="127" G="127" B="127" globalID="0"/>
+        <right_color R="135" G="166" B="86" globalID="70"/>
+      </right_colors_set>
+      <left_colors_set >
+        <left_color R="77" G="48" B="32" globalID="0"/>
+        <left_color R="74" G="49" B="35" globalID="7"/>
+        <left_color R="155" G="180" B="96" globalID="10"/>
+        <left_color R="139" G="163" B="77" globalID="15"/>
+        <left_color R="64" G="78" B="29" globalID="18"/>
+        <left_color R="43" G="38" B="35" globalID="26"/>
+        <left_color R="73" G="80" B="49" globalID="31"/>
+        <left_color R="67" G="68" B="50" globalID="44"/>
+        <left_color R="145" G="153" B="93" globalID="50"/>
+        <left_color R="135" G="166" B="86" globalID="68"/>
+        <left_color R="255" G="255" B="251" globalID="69"/>
+        <left_color R="127" G="127" B="127" globalID="70"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="70" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 4-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="10" nb_right_colors="2"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="436" x="320"/>
+        <control_point y="412.5" x="356.5"/>
+        <control_point y="381.3904" x="344.2126"/>
+        <control_point y="368" x="353"/>
+        <control_point y="348.6872" x="365.674"/>
+        <control_point y="318" x="381"/>
+        <control_point y="311" x="384"/>
+        <control_point y="301.0579" x="388.2609"/>
+        <control_point y="277.9175" x="390"/>
+        <control_point y="248" x="390"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="162" G="16" B="26" globalID="0"/>
+        <right_color R="215" G="19" B="20" globalID="30"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="174" G="27" B="33" globalID="0"/>
+        <left_color R="221" G="39" B="28" globalID="30"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="30" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 5-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="10" nb_right_colors="3"
+             nb_left_colors="4">
+      <control_points_set>
+        <control_point y="194.5" x="348.5"/>
+        <control_point y="219" x="368.5"/>
+        <control_point y="251.0725" x="364.8005"/>
+        <control_point y="271.5" x="360.5"/>
+        <control_point y="308.2035" x="352.773"/>
+        <control_point y="328.0576" x="351.0271"/>
+        <control_point y="364.5" x="338.5"/>
+        <control_point y="396.5" x="327.5"/>
+        <control_point y="421.25" x="322"/>
+        <control_point y="432.25" x="310"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="169" G="28" B="21" globalID="0"/>
+        <right_color R="183" G="17" B="23" globalID="5"/>
+        <right_color R="157" G="24" B="27" globalID="30"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="204" G="20" B="20" globalID="0"/>
+        <left_color R="235" G="115" B="78" globalID="6"/>
+        <left_color R="202" G="13" B="20" globalID="14"/>
+        <left_color R="161" G="41" B="40" globalID="30"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="30" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 6-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="7" nb_right_colors="3"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="194" x="349"/>
+        <control_point y="187.4152" x="365.4621"/>
+        <control_point y="178.6587" x="382.3217"/>
+        <control_point y="190" x="399"/>
+        <control_point y="193.6005" x="404.2949"/>
+        <control_point y="198" x="409"/>
+        <control_point y="202" x="414"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="137" G="36" B="24" globalID="0"/>
+        <right_color R="203" G="101" B="79" globalID="6"/>
+        <right_color R="223" G="52" B="35" globalID="20"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="174" G="14" B="16" globalID="0"/>
+        <left_color R="221" G="35" B="23" globalID="20"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="20" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 7-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="10" nb_right_colors="3"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="197.5" x="421"/>
+        <control_point y="182" x="410.5"/>
+        <control_point y="180" x="395.5"/>
+        <control_point y="179" x="384.5"/>
+        <control_point y="178.7658" x="381.9237"/>
+        <control_point y="174.5" x="395"/>
+        <control_point y="175.5" x="401.5"/>
+        <control_point y="177.4539" x="414.2002"/>
+        <control_point y="183.7367" x="428.6463"/>
+        <control_point y="193.875" x="436.25"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="225" G="55" B="38" globalID="0"/>
+        <right_color R="216" G="86" B="60" globalID="25"/>
+        <right_color R="255" G="231" B="217" globalID="30"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="224" G="38" B="26" globalID="0"/>
+        <left_color R="207" G="115" B="90" globalID="11"/>
+        <left_color R="225" G="48" B="30" globalID="30"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="30" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 8-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="3"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="165.5" x="375"/>
+        <control_point y="156.5" x="386"/>
+        <control_point y="152" x="395.5321"/>
+        <control_point y="152" x="408"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="178" G="59" B="39" globalID="0"/>
+        <right_color R="208" G="91" B="74" globalID="4"/>
+        <right_color R="255" G="250" B="245" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="195" G="38" B="21" globalID="0"/>
+        <left_color R="221" G="59" B="38" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="10" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 9-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="4"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="162" x="369"/>
+        <control_point y="153" x="376.5"/>
+        <control_point y="150.5" x="378.25"/>
+        <control_point y="147" x="390.25"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="194" G="35" B="29" globalID="0"/>
+        <right_color R="211" G="55" B="43" globalID="8"/>
+        <right_color R="210" G="80" B="58" globalID="9"/>
+        <right_color R="243" G="202" B="182" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="149" G="65" B="41" globalID="0"/>
+        <left_color R="209" G="109" B="83" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="10" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 10-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="4"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="131.5" x="238.6"/>
+        <control_point y="135.5" x="259"/>
+        <control_point y="141" x="266.5"/>
+        <control_point y="152" x="279.2"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="254" G="254" B="254" globalID="0"/>
+        <right_color R="196" G="154" B="145" globalID="1"/>
+        <right_color R="168" G="77" B="69" globalID="2"/>
+        <right_color R="165" G="33" B="30" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="178" G="109" B="93" globalID="0"/>
+        <left_color R="188" G="79" B="56" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="10" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 11-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="13" nb_right_colors="8"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="248" x="189"/>
+        <control_point y="232.25" x="176.75"/>
+        <control_point y="224.6039" x="182.1869"/>
+        <control_point y="210.5" x="189.5"/>
+        <control_point y="197" x="196.5"/>
+        <control_point y="164.9323" x="197.9255"/>
+        <control_point y="158.25" x="204.75"/>
+        <control_point y="146.5" x="216.75"/>
+        <control_point y="139.25" x="220.75"/>
+        <control_point y="140.25" x="240.75"/>
+        <control_point y="140.9876" x="255.5013"/>
+        <control_point y="145.9497" x="264.5622"/>
+        <control_point y="156.375" x="273.25"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="116" G="27" B="33" globalID="0"/>
+        <right_color R="130" G="44" B="43" globalID="18"/>
+        <right_color R="141" G="77" B="68" globalID="21"/>
+        <right_color R="191" G="158" B="153" globalID="23"/>
+        <right_color R="166" G="96" B="86" globalID="26"/>
+        <right_color R="207" G="115" B="90" globalID="37"/>
+        <right_color R="194" G="94" B="68" globalID="39"/>
+        <right_color R="208" G="61" B="38" globalID="40"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="125" G="7" B="10" globalID="0"/>
+        <left_color R="199" G="5" B="9" globalID="35"/>
+        <left_color R="173" G="4" B="9" globalID="40"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="40" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 12-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="7" nb_right_colors="4"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="248" x="189"/>
+        <control_point y="236.8811" x="198.8137"/>
+        <control_point y="215.913" x="198.3064"/>
+        <control_point y="202.5" x="207"/>
+        <control_point y="175.5" x="224.5"/>
+        <control_point y="162" x="239.5"/>
+        <control_point y="156.375" x="273.25"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="111" G="14" B="23" globalID="0"/>
+        <right_color R="127" G="10" B="16" globalID="11"/>
+        <right_color R="173" G="4" B="9" globalID="19"/>
+        <right_color R="210" G="5" B="9" globalID="20"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="125" G="50" B="54" globalID="0"/>
+        <left_color R="162" G="22" B="25" globalID="16"/>
+        <left_color R="230" G="143" B="116" globalID="20"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="20" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 13-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="19" nb_right_colors="3"
+             nb_left_colors="7">
+      <control_points_set>
+        <control_point y="172.75" x="296.75"/>
+        <control_point y="175.5" x="283.75"/>
+        <control_point y="161.3709" x="277.5325"/>
+        <control_point y="166" x="261"/>
+        <control_point y="169.5665" x="248.2624"/>
+        <control_point y="186" x="245.75"/>
+        <control_point y="193.5" x="233.75"/>
+        <control_point y="198.3306" x="226.0211"/>
+        <control_point y="157.8459" x="244.7213"/>
+        <control_point y="199" x="219"/>
+        <control_point y="208.3035" x="213.1853"/>
+        <control_point y="216.1734" x="209.1143"/>
+        <control_point y="226.5" x="205.5"/>
+        <control_point y="246.5" x="198.5"/>
+        <control_point y="258.26" x="199.3077"/>
+        <control_point y="291.25" x="196.5"/>
+        <control_point y="338.25" x="192.5"/>
+        <control_point y="391.5" x="221"/>
+        <control_point y="413.75" x="232.5"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="198" G="30" B="19" globalID="0"/>
+        <right_color R="122" G="0" B="2" globalID="21"/>
+        <right_color R="125" G="7" B="10" globalID="60"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="221" G="129" B="98" globalID="0"/>
+        <left_color R="207" G="131" B="99" globalID="1"/>
+        <left_color R="221" G="130" B="99" globalID="2"/>
+        <left_color R="133" G="9" B="19" globalID="20"/>
+        <left_color R="148" G="100" B="90" globalID="50"/>
+        <left_color R="111" G="6" B="10" globalID="56"/>
+        <left_color R="111" G="6" B="10" globalID="60"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="60" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 14-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="3"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="333.25" x="194"/>
+        <control_point y="308.25" x="190"/>
+        <control_point y="279.5" x="185"/>
+        <control_point y="254" x="191.5"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="146" G="98" B="92" globalID="0"/>
+        <right_color R="132" G="83" B="76" globalID="1"/>
+        <right_color R="113" G="28" B="33" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="137" G="79" B="75" globalID="0"/>
+        <left_color R="136" G="78" B="76" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="10" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 15-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="13" nb_right_colors="2"
+             nb_left_colors="4">
+      <control_points_set>
+        <control_point y="413.25" x="232"/>
+        <control_point y="430.0065" x="246.3627"/>
+        <control_point y="434.4603" x="260.141"/>
+        <control_point y="430" x="283"/>
+        <control_point y="426" x="303.5"/>
+        <control_point y="398.2377" x="310.2943"/>
+        <control_point y="384" x="314"/>
+        <control_point y="364.1317" x="319.1712"/>
+        <control_point y="330.671" x="327.666"/>
+        <control_point y="308" x="331"/>
+        <control_point y="288.6273" x="333.8489"/>
+        <control_point y="268.5031" x="335.0497"/>
+        <control_point y="249" x="337"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="125" G="7" B="10" globalID="0"/>
+        <right_color R="216" G="22" B="22" globalID="40"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="111" G="6" B="10" globalID="0"/>
+        <left_color R="111" G="6" B="10" globalID="8"/>
+        <left_color R="111" G="6" B="10" globalID="13"/>
+        <left_color R="222" G="46" B="31" globalID="40"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="40" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 16-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="16" nb_right_colors="3"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="179.75" x="263.5"/>
+        <control_point y="205.25" x="279.5"/>
+        <control_point y="262.1629" x="260.5437"/>
+        <control_point y="306" x="259.5"/>
+        <control_point y="329.7885" x="258.9336"/>
+        <control_point y="366" x="247.5"/>
+        <control_point y="383" x="258"/>
+        <control_point y="404.1182" x="271.0436"/>
+        <control_point y="335.4011" x="272.4506"/>
+        <control_point y="311" x="277"/>
+        <control_point y="289.9404" x="280.9264"/>
+        <control_point y="270.2679" x="285.4585"/>
+        <control_point y="250" x="293"/>
+        <control_point y="243.9664" x="295.2451"/>
+        <control_point y="238" x="297.6667"/>
+        <control_point y="232" x="300"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="195" G="35" B="26" globalID="0"/>
+        <right_color R="158" G="11" B="21" globalID="25"/>
+        <right_color R="223" G="80" B="50" globalID="50"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="201" G="38" B="28" globalID="0"/>
+        <left_color R="159" G="10" B="19" globalID="20"/>
+        <left_color R="213" G="41" B="29" globalID="50"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="50" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 17-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="7" nb_right_colors="3"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="177.75" x="368.5"/>
+        <control_point y="167" x="383.25"/>
+        <control_point y="164.75" x="406.25"/>
+        <control_point y="173" x="421.5"/>
+        <control_point y="175.4673" x="426.0608"/>
+        <control_point y="179.3333" x="429.3333"/>
+        <control_point y="183" x="433"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="189" G="32" B="17" globalID="0"/>
+        <right_color R="228" G="92" B="52" globalID="12"/>
+        <right_color R="255" G="239" B="224" globalID="20"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="174" G="61" B="47" globalID="0"/>
+        <left_color R="240" G="174" B="150" globalID="13"/>
+        <left_color R="226" G="163" B="132" globalID="20"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="20" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 18-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="7" nb_right_colors="5"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="145.75" x="276.25"/>
+        <control_point y="135" x="258"/>
+        <control_point y="128" x="255.5421"/>
+        <control_point y="128" x="270.25"/>
+        <control_point y="128" x="286.8255"/>
+        <control_point y="125.75" x="294.75"/>
+        <control_point y="144" x="302.25"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="171" G="28" B="22" globalID="0"/>
+        <right_color R="183" G="121" B="112" globalID="7"/>
+        <right_color R="186" G="105" B="84" globalID="15"/>
+        <right_color R="183" G="121" B="112" globalID="16"/>
+        <right_color R="190" G="47" B="33" globalID="20"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="178" G="5" B="9" globalID="0"/>
+        <left_color R="178" G="5" B="9" globalID="20"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="20" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 19-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="2"
+             nb_left_colors="5">
+      <control_points_set>
+        <control_point y="148" x="308.5"/>
+        <control_point y="153.7797" x="306.1881"/>
+        <control_point y="160" x="302.3521"/>
+        <control_point y="160" x="295"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="60" G="55" B="26" globalID="0"/>
+        <right_color R="68" G="77" B="48" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="149" G="63" B="38" globalID="0"/>
+        <left_color R="105" G="113" B="66" globalID="1"/>
+        <left_color R="55" G="72" B="30" globalID="5"/>
+        <left_color R="102" G="124" B="77" globalID="9"/>
+        <left_color R="68" G="90" B="44" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 20-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="4"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="164.25" x="310.625"/>
+        <control_point y="159.0393" x="314.5483"/>
+        <control_point y="133.375" x="315.9375"/>
+        <control_point y="126.625" x="313.5625"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="68" G="76" B="35" globalID="0"/>
+        <right_color R="63" G="50" B="29" globalID="6"/>
+        <right_color R="63" G="50" B="29" globalID="8"/>
+        <right_color R="63" G="50" B="29" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="75" G="99" B="37" globalID="0"/>
+        <left_color R="91" G="100" B="43" globalID="8"/>
+        <left_color R="91" G="100" B="43" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 21-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="3"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="153" x="340.25"/>
+        <control_point y="155.2167" x="340.7615"/>
+        <control_point y="172" x="341.9429"/>
+        <control_point y="172" x="348"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="61" G="71" B="31" globalID="0"/>
+        <right_color R="69" G="76" B="32" globalID="2"/>
+        <right_color R="76" G="92" B="56" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="106" G="100" B="49" globalID="0"/>
+        <left_color R="91" G="113" B="67" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 22-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="4"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="124.25" x="314.9375"/>
+        <control_point y="131.875" x="318.9375"/>
+        <control_point y="154.4375" x="331.625"/>
+        <control_point y="168.1875" x="329.625"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="97" G="105" B="57" globalID="0"/>
+        <right_color R="88" G="98" B="46" globalID="1"/>
+        <right_color R="129" G="155" B="82" globalID="2"/>
+        <right_color R="161" G="194" B="123" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="63" G="51" B="28" globalID="0"/>
+        <left_color R="96" G="107" B="48" globalID="1"/>
+        <left_color R="146" G="177" B="101" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 23-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="3"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="106.9375" x="307.875"/>
+        <control_point y="113.875" x="315.75"/>
+        <control_point y="117.875" x="315.5"/>
+        <control_point y="126.5625" x="319.75"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="97" G="120" B="48" globalID="0"/>
+        <right_color R="71" G="72" B="32" globalID="4"/>
+        <right_color R="93" G="105" B="48" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="74" G="49" B="35" globalID="0"/>
+        <left_color R="59" G="47" B="35" globalID="3"/>
+        <left_color R="101" G="100" B="54" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 24-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="4"
+             nb_left_colors="5">
+      <control_points_set>
+        <control_point y="101.125" x="305.3125"/>
+        <control_point y="111.875" x="324.9375"/>
+        <control_point y="132.0625" x="330.875"/>
+        <control_point y="148" x="336"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="119" G="149" B="70" globalID="0"/>
+        <right_color R="178" G="192" B="117" globalID="1"/>
+        <right_color R="67" G="90" B="34" globalID="3"/>
+        <right_color R="112" G="121" B="58" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="93" G="107" B="48" globalID="0"/>
+        <left_color R="70" G="73" B="31" globalID="2"/>
+        <left_color R="93" G="107" B="48" globalID="4"/>
+        <left_color R="91" G="98" B="57" globalID="6"/>
+        <left_color R="123" G="146" B="74" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 25-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="2"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="98" x="314"/>
+        <control_point y="102.7974" x="321.9957"/>
+        <control_point y="109.623" x="327.8115"/>
+        <control_point y="118" x="332"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="138" G="173" B="91" globalID="0"/>
+        <right_color R="152" G="183" B="103" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="128" G="157" B="73" globalID="0"/>
+        <left_color R="141" G="166" B="83" globalID="5"/>
+        <left_color R="78" G="101" B="45" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 26-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="4"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="98" x="267"/>
+        <control_point y="91.4401" x="277.6599"/>
+        <control_point y="84.6875" x="288.125"/>
+        <control_point y="83.8125" x="303.375"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="63" G="58" B="55" globalID="0"/>
+        <right_color R="70" G="72" B="59" globalID="7"/>
+        <right_color R="64" G="62" B="55" globalID="8"/>
+        <right_color R="70" G="72" B="59" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="79" G="86" B="52" globalID="0"/>
+        <left_color R="140" G="172" B="99" globalID="4"/>
+        <left_color R="140" G="172" B="99" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 27-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="7" nb_right_colors="5"
+             nb_left_colors="3">
+      <control_points_set>
+        <control_point y="114" x="267"/>
+        <control_point y="113.1875" x="274"/>
+        <control_point y="104.3125" x="263"/>
+        <control_point y="102" x="267"/>
+        <control_point y="100.9317" x="268.8478"/>
+        <control_point y="104.6667" x="270.3333"/>
+        <control_point y="106" x="272"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="47" G="38" B="39" globalID="0"/>
+        <right_color R="77" G="78" B="73" globalID="7"/>
+        <right_color R="58" G="57" B="39" globalID="11"/>
+        <right_color R="92" G="109" B="67" globalID="12"/>
+        <right_color R="101" G="127" B="66" globalID="20"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="50" G="58" B="35" globalID="0"/>
+        <left_color R="130" G="142" B="92" globalID="4"/>
+        <left_color R="111" G="124" B="78" globalID="20"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="20" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 28-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="2"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="111" x="276"/>
+        <control_point y="105.2787" x="284.0098"/>
+        <control_point y="96.4375" x="299.875"/>
+        <control_point y="97.1875" x="308.5"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="114" G="138" B="62" globalID="0"/>
+        <right_color R="162" G="189" B="108" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="155" G="181" B="94" globalID="0"/>
+        <left_color R="112" G="145" B="66" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 29-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="4" nb_right_colors="2"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="92" x="314"/>
+        <control_point y="95.5625" x="322.625"/>
+        <control_point y="99.5297" x="327.3531"/>
+        <control_point y="108" x="333"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="142" G="165" B="93" globalID="0"/>
+        <right_color R="158" G="174" B="129" globalID="10"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="154" G="185" B="107" globalID="0"/>
+        <left_color R="150" G="182" B="107" globalID="10"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="10" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 30-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="13" nb_right_colors="4"
+             nb_left_colors="2">
+      <control_points_set>
+        <control_point y="361.75" x="201.3125"/>
+        <control_point y="367.2848" x="203.5622"/>
+        <control_point y="407.014" x="217.2436"/>
+        <control_point y="426.5" x="230.75"/>
+        <control_point y="435.8412" x="240.1855"/>
+        <control_point y="443.7266" x="255.875"/>
+        <control_point y="445.5" x="267"/>
+        <control_point y="447.6301" x="273.6936"/>
+        <control_point y="447.5815" x="275.8239"/>
+        <control_point y="444.5" x="297.75"/>
+        <control_point y="442.875" x="309.3125"/>
+        <control_point y="446.625" x="305.8125"/>
+        <control_point y="448.875" x="322.0625"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="112" G="11" B="15" globalID="0"/>
+        <right_color R="111" G="6" B="10" globalID="16"/>
+        <right_color R="111" G="6" B="10" globalID="33"/>
+        <right_color R="139" G="10" B="12" globalID="40"/>
+      </right_colors_set>
+      <left_colors_set boundarx="Neumann">
+        <left_color R="127" G="127" B="127" globalID="0"/>
+        <left_color R="127" G="127" B="127" globalID="40"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="0"/>
+        <best_scale globalID="40" value="0"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 31-->
+    <curve nb_control_points="10" nb_right_colors="2" nb_left_colors="2" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="205.75" x="442.5" />
+        <control_point y="211" x="439.5" />
+        <control_point y="210.5810774271014" x="440.3979268962876" />
+        <control_point y="212.5" x="439.25" />
+        <control_point y="240.5" x="422.5" />
+        <control_point y="276.2062219237948" x="418.6937835452341" />
+        <control_point y="307" x="427" />
+        <control_point y="314.0492" x="428.9014" />
+        <control_point y="329.647" x="433.848" />
+        <control_point y="334.75" x="437.25" />
+      </control_points_set>
+      <right_colors_set boundarx="Neumann">
+        <right_color G="127" B="127" globalID="0" R="127" />
+        <right_color G="127" B="127" globalID="30" R="127" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="243" B="200" globalID="0" R="253" />
+        <left_color G="251" B="226" globalID="30" R="255" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="30" />
+      </blur_points_set>
+    </curve>
+    <!--curve 32-->
+    <curve nb_control_points="10" nb_right_colors="11" nb_left_colors="2" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="205.75" x="442.5" />
+        <control_point y="176.1029" x="428.7725" />
+        <control_point y="159.1029" x="437.2725" />
+        <control_point y="151.1029" x="406.2725" />
+        <control_point y="146.8389" x="389.7496" />
+        <control_point y="142.6029" x="396.7725" />
+        <control_point y="132.1029" x="370.5225" />
+        <control_point y="126.3192" x="354.2137" />
+        <control_point y="126.25" x="345.0278" />
+        <control_point y="123.75" x="338.375" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="21" B="21" globalID="0" R="218" />
+        <right_color G="46" B="29" globalID="1" R="226" />
+        <right_color G="71" B="44" globalID="2" R="222" />
+        <right_color G="171" B="153" globalID="3" R="238" />
+        <right_color G="105" B="61" globalID="4" R="220" />
+        <right_color G="151" B="101" globalID="5" R="239" />
+        <right_color G="86" B="59" globalID="11" R="207" />
+        <right_color G="178" B="158" globalID="12" R="236" />
+        <right_color G="192" B="172" globalID="13" R="239" />
+        <right_color G="82" B="58" globalID="15" R="212" />
+        <right_color G="90" B="58" globalID="30" R="179" />
+      </right_colors_set>
+      <left_colors_set boundarx="Neumann">
+        <left_color G="127" B="127" globalID="0" R="127" />
+        <left_color G="127" B="127" globalID="30" R="127" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="30" />
+      </blur_points_set>
+    </curve>
+    <!--curve 33-->
+    <curve nb_control_points="13" nb_right_colors="3" nb_left_colors="2" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="448.875" x="322.0625" />
+        <control_point y="449.7188" x="327.7963" />
+        <control_point y="449.8525" x="320.5322" />
+        <control_point y="449.75" x="327.25" />
+        <control_point y="449.5923" x="337.5875" />
+        <control_point y="442.7638" x="356.4978" />
+        <control_point y="434.25" x="368" />
+        <control_point y="424.4862" x="378.798" />
+        <control_point y="400.9089" x="402.966" />
+        <control_point y="381.25" x="411.5" />
+        <control_point y="364.3582" x="422.5482" />
+        <control_point y="358.0433" x="432.245" />
+        <control_point y="334.75" x="437.25" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="10" B="12" globalID="0" R="139" />
+        <right_color G="21" B="21" globalID="19" R="218" />
+        <right_color G="21" B="21" globalID="40" R="218" />
+      </right_colors_set>
+      <left_colors_set boundarx="Neumann">
+        <left_color G="127" B="127" globalID="0" R="127" />
+        <left_color G="127" B="127" globalID="12" R="127" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="40" />
+      </blur_points_set>
+    </curve>
+    <!--curve 34-->
+    <curve nb_control_points="34" nb_right_colors="3" nb_left_colors="4" nb_blur_points="2" lifetime="32" >
+      <control_points_set>
+        <control_point y="334.75" x="437.25" />
+        <control_point y="331.8884" x="431.2981" />
+        <control_point y="330.5803" x="419.5185" />
+        <control_point y="322.8616" x="414.7019" />
+        <control_point y="319.8472" x="412.8208" />
+        <control_point y="311.4097" x="410.9277" />
+        <control_point y="307.8616" x="407.9519" />
+        <control_point y="305.1392" x="405.6685" />
+        <control_point y="299.4294" x="399.2132" />
+        <control_point y="294.8616" x="398.4519" />
+        <control_point y="284.3616" x="396.7019" />
+        <control_point y="279.8101" x="399.8434" />
+        <control_point y="273.3616" x="399.4519" />
+        <control_point y="267.0793" x="400.7339" />
+        <control_point y="263.6116" x="395.7019" />
+        <control_point y="258.8616" x="394.9519" />
+        <control_point y="249.9409" x="393.5433" />
+        <control_point y="244.5453" x="396.0868" />
+        <control_point y="240.8616" x="398.9519" />
+        <control_point y="231.8616" x="405.9519" />
+        <control_point y="231.3327" x="408.1541" />
+        <control_point y="230.6116" x="413.2019" />
+        <control_point y="230.4678" x="414.2088" />
+        <control_point y="230.5189" x="414.4217" />
+        <control_point y="229.6116" x="416.4519" />
+        <control_point y="229.1966" x="417.3805" />
+        <control_point y="224.5188" x="416.6625" />
+        <control_point y="222.3616" x="417.2019" />
+        <control_point y="218.7281" x="418.1102" />
+        <control_point y="214.2807613122796" x="422.1949561930992" />
+        <control_point y="212.1116" x="425.4519" />
+        <control_point y="208.25" x="431.25" />
+        <control_point y="208.75" x="431" />
+        <control_point y="205.75" x="442.5" />
+      </control_points_set>
+      <right_colors_set>
+        <right_color G="21" B="21" globalID="0" R="218" />
+        <right_color G="20" B="20" globalID="7" R="204" />
+        <right_color G="20" B="20" globalID="110" R="204" />
+      </right_colors_set>
+      <left_colors_set>
+        <left_color G="254" B="211" globalID="0" R="255" />
+        <left_color G="225" B="187" globalID="11" R="235" />
+        <left_color G="238" B="138" globalID="47" R="247" />
+        <left_color G="230" B="197" globalID="110" R="235" />
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale value="0" globalID="0" />
+        <best_scale value="0" globalID="110" />
+      </blur_points_set>
+    </curve>
+    <!--curve 35-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="10" nb_right_colors="2"
+             nb_left_colors="5">
+      <control_points_set>
+        <control_point y="210.25" x="279.4375"/>
+        <control_point y="201.3264" x="284.6429"/>
+        <control_point y="201.75" x="288.9375"/>
+        <control_point y="209.25" x="289.9375"/>
+        <control_point y="219.7577" x="291.3385"/>
+        <control_point y="228.5182" x="283.0834"/>
+        <control_point y="228.25" x="280.9375"/>
+        <control_point y="227.1963" x="272.5075"/>
+        <control_point y="216.25" x="275.9375"/>
+        <control_point y="210.25" x="279.4375"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="205" G="48" B="33" globalID="0"/>
+        <right_color R="205" G="48" B="33" globalID="30"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="226" G="120" B="80" globalID="0"/>
+        <left_color R="223" G="127" B="86" globalID="4"/>
+        <left_color R="228" G="141" B="96" globalID="14"/>
+        <left_color R="206" G="83" B="50" globalID="17"/>
+        <left_color R="226" G="120" B="80" globalID="30"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="30" value="3"/>
+      </blur_points_set>
+    </curve>
+    <!--curve 36-->
+    <curve lifetime="32" nb_blur_points="2" nb_control_points="10" nb_right_colors="5"
+             nb_left_colors="6">
+      <control_points_set>
+        <control_point y="221.25" x="340.9375"/>
+        <control_point y="213.2886" x="342.9279"/>
+        <control_point y="223.5278" x="350.8542"/>
+        <control_point y="231.75" x="353.9375"/>
+        <control_point y="237.0094" x="355.9098"/>
+        <control_point y="250.1312" x="351.2145"/>
+        <control_point y="240.75" x="345.9375"/>
+        <control_point y="232.75" x="341.4375"/>
+        <control_point y="227.5" x="339.375"/>
+        <control_point y="221.25" x="340.9375"/>
+      </control_points_set>
+      <right_colors_set>
+        <right_color R="233" G="85" B="49" globalID="0"/>
+        <right_color R="231" G="105" B="71" globalID="6"/>
+        <right_color R="216" G="48" B="31" globalID="17"/>
+        <right_color R="222" G="45" B="29" globalID="19"/>
+        <right_color R="233" G="85" B="49" globalID="30"/>
+      </right_colors_set>
+      <left_colors_set>
+        <left_color R="230" G="116" B="77" globalID="0"/>
+        <left_color R="230" G="116" B="77" globalID="12"/>
+        <left_color R="250" G="196" B="168" globalID="17"/>
+        <left_color R="230" G="128" B="88" globalID="22"/>
+        <left_color R="245" G="161" B="114" globalID="26"/>
+        <left_color R="230" G="116" B="77" globalID="30"/>
+      </left_colors_set>
+      <blur_points_set>
+        <best_scale globalID="0" value="3"/>
+        <best_scale globalID="30" value="3"/>
+      </blur_points_set>
+    </curve>
+  </curve_set>
+
+  <poisson_curve_set nb_curves="3">
+    <!--poisson_curve 1-->
+    <poisson_curve nb_control_points="10" nb_weights="2">
+      <control_points_set>
+        <control_point x="17.8125" y="396.5"/>
+        <control_point x="33.10120187241853" y="404.1443509362093"/>
+        <control_point x="126.802121000285" y="430.2335809615932"/>
+        <control_point x="193.1875" y="443"/>
+        <control_point x="219.1875" y="448"/>
+        <control_point x="253.375" y="455.5"/>
+        <control_point x="285.1875" y="455.5"/>
+        <control_point x="296.1035503960911" y="455.5"/>
+        <control_point x="307.6875" y="455"/>
+        <control_point x="321.8125" y="449.5"/>
+      </control_points_set>
+      <weights_set>
+        <weight b="-0.5" g="-0.5" r="-0.5" globalID="0"/>
+        <weight b="-1.3" g="-1.3" r="-1.3" globalID="10"/>
+      </weights_set>
+    </poisson_curve>
+
+    <!--poisson_curve 2-->
+    <poisson_curve nb_control_points="4" nb_weights="2">
+      <control_points_set>
+        <control_point x="246.3125" y="440"/>
+        <control_point x="220.8125" y="435"/>
+        <control_point x="156.3125" y="390.5"/>
+        <control_point x="147.3125" y="368.5"/>
+      </control_points_set>
+      <weights_set>
+        <weight b="0.9" g="0.9" r="0.9" globalID="0"/>
+        <weight b="0" g="0" r="0" globalID="10"/>
+      </weights_set>
+    </poisson_curve>
+
+    <!--poisson_curve 3-->
+    <poisson_curve nb_control_points="7" nb_weights="2">
+      <control_points_set>
+        <control_point x="18" y="304"/>
+        <control_point x="29.31340931190192" y="304"/>
+        <control_point x="92.65673934070949" y="321.330156589027"/>
+        <control_point x="101" y="324"/>
+        <control_point x="133.8125" y="334.5"/>
+        <control_point x="153.875" y="342.25"/>
+        <control_point x="201.0625" y="361.75"/>
+      </control_points_set>
+      <weights_set>
+        <weight b="0.1" g="0.1" r="0.1" globalID="0"/>
+        <weight b="1.1" g="1.1" r="1.1" globalID="10"/>
+      </weights_set>
+    </poisson_curve>
+  </poisson_curve_set>
+
+  <mesh_set nb_meshes="1">
+    <!--mesh 1-->
+    <mesh nb_cols="30.000000" nb_rows="30.000000" nb_positions="961" nb_colors="961" normalized="1">
+      <position_set>
+        <position x="0.000000" y="0.000000"/>
+        <position x="0.033333" y="0.000000"/>
+        <position x="0.066667" y="0.000000"/>
+        <position x="0.100000" y="0.000000"/>
+        <position x="0.133333" y="0.000000"/>
+        <position x="0.166667" y="0.000000"/>
+        <position x="0.200000" y="0.000000"/>
+        <position x="0.233333" y="0.000000"/>
+        <position x="0.266667" y="0.000000"/>
+        <position x="0.300000" y="0.000000"/>
+        <position x="0.333333" y="0.000000"/>
+        <position x="0.366667" y="0.000000"/>
+        <position x="0.400000" y="0.000000"/>
+        <position x="0.433333" y="0.000000"/>
+        <position x="0.466667" y="0.000000"/>
+        <position x="0.500000" y="0.000000"/>
+        <position x="0.533333" y="0.000000"/>
+        <position x="0.566667" y="0.000000"/>
+        <position x="0.600000" y="0.000000"/>
+        <position x="0.633333" y="0.000000"/>
+        <position x="0.666667" y="0.000000"/>
+        <position x="0.700000" y="0.000000"/>
+        <position x="0.733333" y="0.000000"/>
+        <position x="0.766667" y="0.000000"/>
+        <position x="0.800000" y="0.000000"/>
+        <position x="0.833333" y="0.000000"/>
+        <position x="0.866667" y="0.000000"/>
+        <position x="0.900000" y="0.000000"/>
+        <position x="0.933333" y="0.000000"/>
+        <position x="0.966667" y="0.000000"/>
+        <position x="1.000000" y="0.000000"/>
+
+        <position x="0.000000" y="0.033333"/>
+        <position x="0.033333" y="0.033333"/>
+        <position x="0.066667" y="0.033333"/>
+        <position x="0.100000" y="0.033333"/>
+        <position x="0.133333" y="0.033333"/>
+        <position x="0.166667" y="0.033333"/>
+        <position x="0.200000" y="0.033333"/>
+        <position x="0.233333" y="0.033333"/>
+        <position x="0.266667" y="0.033333"/>
+        <position x="0.300000" y="0.033333"/>
+        <position x="0.333333" y="0.033333"/>
+        <position x="0.366667" y="0.033333"/>
+        <position x="0.400000" y="0.033333"/>
+        <position x="0.433333" y="0.033333"/>
+        <position x="0.466667" y="0.033333"/>
+        <position x="0.500000" y="0.033333"/>
+        <position x="0.533333" y="0.033333"/>
+        <position x="0.566667" y="0.033333"/>
+        <position x="0.600000" y="0.033333"/>
+        <position x="0.633333" y="0.033333"/>
+        <position x="0.666667" y="0.033333"/>
+        <position x="0.700000" y="0.033333"/>
+        <position x="0.733333" y="0.033333"/>
+        <position x="0.766667" y="0.033333"/>
+        <position x="0.800000" y="0.033333"/>
+        <position x="0.833333" y="0.033333"/>
+        <position x="0.866667" y="0.033333"/>
+        <position x="0.900000" y="0.033333"/>
+        <position x="0.933333" y="0.033333"/>
+        <position x="0.966667" y="0.033333"/>
+        <position x="1.000000" y="0.033333"/>
+
+        <position x="0.000000" y="0.066667"/>
+        <position x="0.033333" y="0.066667"/>
+        <position x="0.066667" y="0.066667"/>
+        <position x="0.100000" y="0.066667"/>
+        <position x="0.133333" y="0.066667"/>
+        <position x="0.166667" y="0.066667"/>
+        <position x="0.200000" y="0.066667"/>
+        <position x="0.233333" y="0.066667"/>
+        <position x="0.266667" y="0.066667"/>
+        <position x="0.300000" y="0.066667"/>
+        <position x="0.333333" y="0.066667"/>
+        <position x="0.366667" y="0.066667"/>
+        <position x="0.400000" y="0.066667"/>
+        <position x="0.433333" y="0.066667"/>
+        <position x="0.466667" y="0.066667"/>
+        <position x="0.500000" y="0.066667"/>
+        <position x="0.533333" y="0.066667"/>
+        <position x="0.566667" y="0.066667"/>
+        <position x="0.600000" y="0.066667"/>
+        <position x="0.633333" y="0.066667"/>
+        <position x="0.666667" y="0.066667"/>
+        <position x="0.700000" y="0.066667"/>
+        <position x="0.733333" y="0.066667"/>
+        <position x="0.766667" y="0.066667"/>
+        <position x="0.800000" y="0.066667"/>
+        <position x="0.833333" y="0.066667"/>
+        <position x="0.866667" y="0.066667"/>
+        <position x="0.900000" y="0.066667"/>
+        <position x="0.933333" y="0.066667"/>
+        <position x="0.966667" y="0.066667"/>
+        <position x="1.000000" y="0.066667"/>
+
+        <position x="0.000000" y="0.100000"/>
+        <position x="0.033333" y="0.100000"/>
+        <position x="0.066667" y="0.100000"/>
+        <position x="0.100000" y="0.100000"/>
+        <position x="0.133333" y="0.100000"/>
+        <position x="0.166667" y="0.100000"/>
+        <position x="0.200000" y="0.100000"/>
+        <position x="0.233333" y="0.100000"/>
+        <position x="0.266667" y="0.100000"/>
+        <position x="0.300000" y="0.100000"/>
+        <position x="0.333333" y="0.100000"/>
+        <position x="0.366667" y="0.100000"/>
+        <position x="0.400000" y="0.100000"/>
+        <position x="0.433333" y="0.100000"/>
+        <position x="0.466667" y="0.100000"/>
+        <position x="0.500000" y="0.100000"/>
+        <position x="0.533333" y="0.100000"/>
+        <position x="0.566667" y="0.100000"/>
+        <position x="0.600000" y="0.100000"/>
+        <position x="0.633333" y="0.100000"/>
+        <position x="0.666667" y="0.100000"/>
+        <position x="0.700000" y="0.100000"/>
+        <position x="0.733333" y="0.100000"/>
+        <position x="0.766667" y="0.100000"/>
+        <position x="0.800000" y="0.100000"/>
+        <position x="0.833333" y="0.100000"/>
+        <position x="0.866667" y="0.100000"/>
+        <position x="0.900000" y="0.100000"/>
+        <position x="0.933333" y="0.100000"/>
+        <position x="0.966667" y="0.100000"/>
+        <position x="1.000000" y="0.100000"/>
+
+        <position x="0.000000" y="0.133333"/>
+        <position x="0.033333" y="0.133333"/>
+        <position x="0.066667" y="0.133333"/>
+        <position x="0.100000" y="0.133333"/>
+        <position x="0.133333" y="0.133333"/>
+        <position x="0.166667" y="0.133333"/>
+        <position x="0.200000" y="0.133333"/>
+        <position x="0.233333" y="0.133333"/>
+        <position x="0.266667" y="0.133333"/>
+        <position x="0.300000" y="0.133333"/>
+        <position x="0.333333" y="0.133333"/>
+        <position x="0.366667" y="0.133333"/>
+        <position x="0.400000" y="0.133333"/>
+        <position x="0.433333" y="0.133333"/>
+        <position x="0.466667" y="0.133333"/>
+        <position x="0.500000" y="0.133333"/>
+        <position x="0.533333" y="0.133333"/>
+        <position x="0.566667" y="0.133333"/>
+        <position x="0.600000" y="0.133333"/>
+        <position x="0.633333" y="0.133333"/>
+        <position x="0.666667" y="0.133333"/>
+        <position x="0.700000" y="0.133333"/>
+        <position x="0.733333" y="0.133333"/>
+        <position x="0.766667" y="0.133333"/>
+        <position x="0.800000" y="0.133333"/>
+        <position x="0.833333" y="0.133333"/>
+        <position x="0.866667" y="0.133333"/>
+        <position x="0.900000" y="0.133333"/>
+        <position x="0.933333" y="0.133333"/>
+        <position x="0.966667" y="0.133333"/>
+        <position x="1.000000" y="0.133333"/>
+
+        <position x="0.000000" y="0.166667"/>
+        <position x="0.033333" y="0.166667"/>
+        <position x="0.066667" y="0.166667"/>
+        <position x="0.100000" y="0.166667"/>
+        <position x="0.133333" y="0.166667"/>
+        <position x="0.166667" y="0.166667"/>
+        <position x="0.200000" y="0.166667"/>
+        <position x="0.233333" y="0.166667"/>
+        <position x="0.266667" y="0.166667"/>
+        <position x="0.300000" y="0.166667"/>
+        <position x="0.333333" y="0.166667"/>
+        <position x="0.366667" y="0.166667"/>
+        <position x="0.400000" y="0.166667"/>
+        <position x="0.433333" y="0.166667"/>
+        <position x="0.466667" y="0.166667"/>
+        <position x="0.500000" y="0.166667"/>
+        <position x="0.533333" y="0.166667"/>
+        <position x="0.566667" y="0.166667"/>
+        <position x="0.600000" y="0.166667"/>
+        <position x="0.633333" y="0.166667"/>
+        <position x="0.666667" y="0.166667"/>
+        <position x="0.700000" y="0.166667"/>
+        <position x="0.733333" y="0.166667"/>
+        <position x="0.766667" y="0.166667"/>
+        <position x="0.800000" y="0.166667"/>
+        <position x="0.833333" y="0.166667"/>
+        <position x="0.866667" y="0.166667"/>
+        <position x="0.900000" y="0.166667"/>
+        <position x="0.933333" y="0.166667"/>
+        <position x="0.966667" y="0.166667"/>
+        <position x="1.000000" y="0.166667"/>
+
+        <position x="0.000000" y="0.200000"/>
+        <position x="0.033333" y="0.200000"/>
+        <position x="0.066667" y="0.200000"/>
+        <position x="0.100000" y="0.200000"/>
+        <position x="0.133333" y="0.200000"/>
+        <position x="0.166667" y="0.200000"/>
+        <position x="0.200000" y="0.200000"/>
+        <position x="0.233333" y="0.200000"/>
+        <position x="0.266667" y="0.200000"/>
+        <position x="0.300000" y="0.200000"/>
+        <position x="0.333333" y="0.200000"/>
+        <position x="0.366667" y="0.200000"/>
+        <position x="0.400000" y="0.200000"/>
+        <position x="0.433333" y="0.200000"/>
+        <position x="0.466667" y="0.200000"/>
+        <position x="0.500000" y="0.200000"/>
+        <position x="0.533333" y="0.200000"/>
+        <position x="0.566667" y="0.200000"/>
+        <position x="0.600000" y="0.200000"/>
+        <position x="0.633333" y="0.200000"/>
+        <position x="0.666667" y="0.200000"/>
+        <position x="0.700000" y="0.200000"/>
+        <position x="0.733333" y="0.200000"/>
+        <position x="0.766667" y="0.200000"/>
+        <position x="0.800000" y="0.200000"/>
+        <position x="0.833333" y="0.200000"/>
+        <position x="0.866667" y="0.200000"/>
+        <position x="0.900000" y="0.200000"/>
+        <position x="0.933333" y="0.200000"/>
+        <position x="0.966667" y="0.200000"/>
+        <position x="1.000000" y="0.200000"/>
+
+        <position x="0.000000" y="0.233333"/>
+        <position x="0.033333" y="0.233333"/>
+        <position x="0.066667" y="0.233333"/>
+        <position x="0.100000" y="0.233333"/>
+        <position x="0.133333" y="0.233333"/>
+        <position x="0.166667" y="0.233333"/>
+        <position x="0.200000" y="0.233333"/>
+        <position x="0.233333" y="0.233333"/>
+        <position x="0.266667" y="0.233333"/>
+        <position x="0.300000" y="0.233333"/>
+        <position x="0.333333" y="0.233333"/>
+        <position x="0.366667" y="0.233333"/>
+        <position x="0.400000" y="0.233333"/>
+        <position x="0.433333" y="0.233333"/>
+        <position x="0.466667" y="0.233333"/>
+        <position x="0.500000" y="0.233333"/>
+        <position x="0.533333" y="0.233333"/>
+        <position x="0.566667" y="0.233333"/>
+        <position x="0.600000" y="0.233333"/>
+        <position x="0.633333" y="0.233333"/>
+        <position x="0.666667" y="0.233333"/>
+        <position x="0.700000" y="0.233333"/>
+        <position x="0.733333" y="0.233333"/>
+        <position x="0.766667" y="0.233333"/>
+        <position x="0.800000" y="0.233333"/>
+        <position x="0.833333" y="0.233333"/>
+        <position x="0.866667" y="0.233333"/>
+        <position x="0.900000" y="0.233333"/>
+        <position x="0.933333" y="0.233333"/>
+        <position x="0.966667" y="0.233333"/>
+        <position x="1.000000" y="0.233333"/>
+
+        <position x="0.000000" y="0.266667"/>
+        <position x="0.033333" y="0.266667"/>
+        <position x="0.066667" y="0.266667"/>
+        <position x="0.100000" y="0.266667"/>
+        <position x="0.133333" y="0.266667"/>
+        <position x="0.166667" y="0.266667"/>
+        <position x="0.200000" y="0.266667"/>
+        <position x="0.233333" y="0.266667"/>
+        <position x="0.266667" y="0.266667"/>
+        <position x="0.300000" y="0.266667"/>
+        <position x="0.333333" y="0.266667"/>
+        <position x="0.366667" y="0.266667"/>
+        <position x="0.400000" y="0.266667"/>
+        <position x="0.433333" y="0.266667"/>
+        <position x="0.466667" y="0.266667"/>
+        <position x="0.500000" y="0.266667"/>
+        <position x="0.533333" y="0.266667"/>
+        <position x="0.566667" y="0.266667"/>
+        <position x="0.600000" y="0.266667"/>
+        <position x="0.633333" y="0.266667"/>
+        <position x="0.666667" y="0.266667"/>
+        <position x="0.700000" y="0.266667"/>
+        <position x="0.733333" y="0.266667"/>
+        <position x="0.766667" y="0.266667"/>
+        <position x="0.800000" y="0.266667"/>
+        <position x="0.833333" y="0.266667"/>
+        <position x="0.866667" y="0.266667"/>
+        <position x="0.900000" y="0.266667"/>
+        <position x="0.933333" y="0.266667"/>
+        <position x="0.966667" y="0.266667"/>
+        <position x="1.000000" y="0.266667"/>
+
+        <position x="0.000000" y="0.300000"/>
+        <position x="0.033333" y="0.300000"/>
+        <position x="0.066667" y="0.300000"/>
+        <position x="0.100000" y="0.300000"/>
+        <position x="0.133333" y="0.300000"/>
+        <position x="0.166667" y="0.300000"/>
+        <position x="0.200000" y="0.300000"/>
+        <position x="0.233333" y="0.300000"/>
+        <position x="0.266667" y="0.300000"/>
+        <position x="0.300000" y="0.300000"/>
+        <position x="0.333333" y="0.300000"/>
+        <position x="0.366667" y="0.300000"/>
+        <position x="0.400000" y="0.300000"/>
+        <position x="0.433333" y="0.300000"/>
+        <position x="0.466667" y="0.300000"/>
+        <position x="0.500000" y="0.300000"/>
+        <position x="0.533333" y="0.300000"/>
+        <position x="0.566667" y="0.300000"/>
+        <position x="0.600000" y="0.300000"/>
+        <position x="0.633333" y="0.300000"/>
+        <position x="0.666667" y="0.300000"/>
+        <position x="0.700000" y="0.300000"/>
+        <position x="0.733333" y="0.300000"/>
+        <position x="0.766667" y="0.300000"/>
+        <position x="0.800000" y="0.300000"/>
+        <position x="0.833333" y="0.300000"/>
+        <position x="0.866667" y="0.300000"/>
+        <position x="0.900000" y="0.300000"/>
+        <position x="0.933333" y="0.300000"/>
+        <position x="0.966667" y="0.300000"/>
+        <position x="1.000000" y="0.300000"/>
+
+        <position x="0.000000" y="0.333333"/>
+        <position x="0.033333" y="0.333333"/>
+        <position x="0.066667" y="0.333333"/>
+        <position x="0.100000" y="0.333333"/>
+        <position x="0.133333" y="0.333333"/>
+        <position x="0.166667" y="0.333333"/>
+        <position x="0.200000" y="0.333333"/>
+        <position x="0.233333" y="0.333333"/>
+        <position x="0.266667" y="0.333333"/>
+        <position x="0.300000" y="0.333333"/>
+        <position x="0.333333" y="0.333333"/>
+        <position x="0.366667" y="0.333333"/>
+        <position x="0.400000" y="0.333333"/>
+        <position x="0.433333" y="0.333333"/>
+        <position x="0.466667" y="0.333333"/>
+        <position x="0.500000" y="0.333333"/>
+        <position x="0.533333" y="0.333333"/>
+        <position x="0.566667" y="0.333333"/>
+        <position x="0.600000" y="0.333333"/>
+        <position x="0.633333" y="0.333333"/>
+        <position x="0.666667" y="0.333333"/>
+        <position x="0.700000" y="0.333333"/>
+        <position x="0.733333" y="0.333333"/>
+        <position x="0.766667" y="0.333333"/>
+        <position x="0.800000" y="0.333333"/>
+        <position x="0.833333" y="0.333333"/>
+        <position x="0.866667" y="0.333333"/>
+        <position x="0.900000" y="0.333333"/>
+        <position x="0.933333" y="0.333333"/>
+        <position x="0.966667" y="0.333333"/>
+        <position x="1.000000" y="0.333333"/>
+
+        <position x="0.000000" y="0.366667"/>
+        <position x="0.033333" y="0.366667"/>
+        <position x="0.066667" y="0.366667"/>
+        <position x="0.100000" y="0.366667"/>
+        <position x="0.133333" y="0.366667"/>
+        <position x="0.166667" y="0.366667"/>
+        <position x="0.200000" y="0.366667"/>
+        <position x="0.233333" y="0.366667"/>
+        <position x="0.266667" y="0.366667"/>
+        <position x="0.300000" y="0.366667"/>
+        <position x="0.333333" y="0.366667"/>
+        <position x="0.366667" y="0.366667"/>
+        <position x="0.400000" y="0.366667"/>
+        <position x="0.433333" y="0.366667"/>
+        <position x="0.466667" y="0.366667"/>
+        <position x="0.500000" y="0.366667"/>
+        <position x="0.533333" y="0.366667"/>
+        <position x="0.566667" y="0.366667"/>
+        <position x="0.600000" y="0.366667"/>
+        <position x="0.633333" y="0.366667"/>
+        <position x="0.666667" y="0.366667"/>
+        <position x="0.700000" y="0.366667"/>
+        <position x="0.733333" y="0.366667"/>
+        <position x="0.766667" y="0.366667"/>
+        <position x="0.800000" y="0.366667"/>
+        <position x="0.833333" y="0.366667"/>
+        <position x="0.866667" y="0.366667"/>
+        <position x="0.900000" y="0.366667"/>
+        <position x="0.933333" y="0.366667"/>
+        <position x="0.966667" y="0.366667"/>
+        <position x="1.000000" y="0.366667"/>
+
+        <position x="0.000000" y="0.400000"/>
+        <position x="0.033333" y="0.400000"/>
+        <position x="0.066667" y="0.400000"/>
+        <position x="0.100000" y="0.400000"/>
+        <position x="0.133333" y="0.400000"/>
+        <position x="0.166667" y="0.400000"/>
+        <position x="0.200000" y="0.400000"/>
+        <position x="0.233333" y="0.400000"/>
+        <position x="0.266667" y="0.400000"/>
+        <position x="0.300000" y="0.400000"/>
+        <position x="0.333333" y="0.400000"/>
+        <position x="0.366667" y="0.400000"/>
+        <position x="0.400000" y="0.400000"/>
+        <position x="0.433333" y="0.400000"/>
+        <position x="0.466667" y="0.400000"/>
+        <position x="0.500000" y="0.400000"/>
+        <position x="0.533333" y="0.400000"/>
+        <position x="0.566667" y="0.400000"/>
+        <position x="0.600000" y="0.400000"/>
+        <position x="0.633333" y="0.400000"/>
+        <position x="0.666667" y="0.400000"/>
+        <position x="0.700000" y="0.400000"/>
+        <position x="0.733333" y="0.400000"/>
+        <position x="0.766667" y="0.400000"/>
+        <position x="0.800000" y="0.400000"/>
+        <position x="0.833333" y="0.400000"/>
+        <position x="0.866667" y="0.400000"/>
+        <position x="0.900000" y="0.400000"/>
+        <position x="0.933333" y="0.400000"/>
+        <position x="0.966667" y="0.400000"/>
+        <position x="1.000000" y="0.400000"/>
+
+        <position x="0.000000" y="0.433333"/>
+        <position x="0.033333" y="0.433333"/>
+        <position x="0.066667" y="0.433333"/>
+        <position x="0.100000" y="0.433333"/>
+        <position x="0.133333" y="0.433333"/>
+        <position x="0.166667" y="0.433333"/>
+        <position x="0.200000" y="0.433333"/>
+        <position x="0.233333" y="0.433333"/>
+        <position x="0.266667" y="0.433333"/>
+        <position x="0.300000" y="0.433333"/>
+        <position x="0.333333" y="0.433333"/>
+        <position x="0.366667" y="0.433333"/>
+        <position x="0.400000" y="0.433333"/>
+        <position x="0.433333" y="0.433333"/>
+        <position x="0.466667" y="0.433333"/>
+        <position x="0.500000" y="0.433333"/>
+        <position x="0.533333" y="0.433333"/>
+        <position x="0.566667" y="0.433333"/>
+        <position x="0.600000" y="0.433333"/>
+        <position x="0.633333" y="0.433333"/>
+        <position x="0.666667" y="0.433333"/>
+        <position x="0.700000" y="0.433333"/>
+        <position x="0.733333" y="0.433333"/>
+        <position x="0.766667" y="0.433333"/>
+        <position x="0.800000" y="0.433333"/>
+        <position x="0.833333" y="0.433333"/>
+        <position x="0.866667" y="0.433333"/>
+        <position x="0.900000" y="0.433333"/>
+        <position x="0.933333" y="0.433333"/>
+        <position x="0.966667" y="0.433333"/>
+        <position x="1.000000" y="0.433333"/>
+
+        <position x="0.000000" y="0.466667"/>
+        <position x="0.033333" y="0.466667"/>
+        <position x="0.066667" y="0.466667"/>
+        <position x="0.100000" y="0.466667"/>
+        <position x="0.133333" y="0.466667"/>
+        <position x="0.166667" y="0.466667"/>
+        <position x="0.200000" y="0.466667"/>
+        <position x="0.233333" y="0.466667"/>
+        <position x="0.266667" y="0.466667"/>
+        <position x="0.300000" y="0.466667"/>
+        <position x="0.333333" y="0.466667"/>
+        <position x="0.366667" y="0.466667"/>
+        <position x="0.400000" y="0.466667"/>
+        <position x="0.433333" y="0.466667"/>
+        <position x="0.466667" y="0.466667"/>
+        <position x="0.500000" y="0.466667"/>
+        <position x="0.533333" y="0.466667"/>
+        <position x="0.566667" y="0.466667"/>
+        <position x="0.600000" y="0.466667"/>
+        <position x="0.633333" y="0.466667"/>
+        <position x="0.666667" y="0.466667"/>
+        <position x="0.700000" y="0.466667"/>
+        <position x="0.733333" y="0.466667"/>
+        <position x="0.766667" y="0.466667"/>
+        <position x="0.800000" y="0.466667"/>
+        <position x="0.833333" y="0.466667"/>
+        <position x="0.866667" y="0.466667"/>
+        <position x="0.900000" y="0.466667"/>
+        <position x="0.933333" y="0.466667"/>
+        <position x="0.966667" y="0.466667"/>
+        <position x="1.000000" y="0.466667"/>
+
+        <position x="0.000000" y="0.500000"/>
+        <position x="0.033333" y="0.500000"/>
+        <position x="0.066667" y="0.500000"/>
+        <position x="0.100000" y="0.500000"/>
+        <position x="0.133333" y="0.500000"/>
+        <position x="0.166667" y="0.500000"/>
+        <position x="0.200000" y="0.500000"/>
+        <position x="0.233333" y="0.500000"/>
+        <position x="0.266667" y="0.500000"/>
+        <position x="0.300000" y="0.500000"/>
+        <position x="0.333333" y="0.500000"/>
+        <position x="0.366667" y="0.500000"/>
+        <position x="0.400000" y="0.500000"/>
+        <position x="0.433333" y="0.500000"/>
+        <position x="0.466667" y="0.500000"/>
+        <position x="0.500000" y="0.500000"/>
+        <position x="0.533333" y="0.500000"/>
+        <position x="0.566667" y="0.500000"/>
+        <position x="0.600000" y="0.500000"/>
+        <position x="0.633333" y="0.500000"/>
+        <position x="0.666667" y="0.500000"/>
+        <position x="0.700000" y="0.500000"/>
+        <position x="0.733333" y="0.500000"/>
+        <position x="0.766667" y="0.500000"/>
+        <position x="0.800000" y="0.500000"/>
+        <position x="0.833333" y="0.500000"/>
+        <position x="0.866667" y="0.500000"/>
+        <position x="0.900000" y="0.500000"/>
+        <position x="0.933333" y="0.500000"/>
+        <position x="0.966667" y="0.500000"/>
+        <position x="1.000000" y="0.500000"/>
+
+        <position x="0.000000" y="0.533333"/>
+        <position x="0.033333" y="0.533333"/>
+        <position x="0.066667" y="0.533333"/>
+        <position x="0.100000" y="0.533333"/>
+        <position x="0.133333" y="0.533333"/>
+        <position x="0.166667" y="0.533333"/>
+        <position x="0.200000" y="0.533333"/>
+        <position x="0.233333" y="0.533333"/>
+        <position x="0.266667" y="0.533333"/>
+        <position x="0.300000" y="0.533333"/>
+        <position x="0.333333" y="0.533333"/>
+        <position x="0.366667" y="0.533333"/>
+        <position x="0.400000" y="0.533333"/>
+        <position x="0.433333" y="0.533333"/>
+        <position x="0.466667" y="0.533333"/>
+        <position x="0.500000" y="0.533333"/>
+        <position x="0.533333" y="0.533333"/>
+        <position x="0.566667" y="0.533333"/>
+        <position x="0.600000" y="0.533333"/>
+        <position x="0.633333" y="0.533333"/>
+        <position x="0.666667" y="0.533333"/>
+        <position x="0.700000" y="0.533333"/>
+        <position x="0.733333" y="0.533333"/>
+        <position x="0.766667" y="0.533333"/>
+        <position x="0.800000" y="0.533333"/>
+        <position x="0.833333" y="0.533333"/>
+        <position x="0.866667" y="0.533333"/>
+        <position x="0.900000" y="0.533333"/>
+        <position x="0.933333" y="0.533333"/>
+        <position x="0.966667" y="0.533333"/>
+        <position x="1.000000" y="0.533333"/>
+
+        <position x="0.000000" y="0.566667"/>
+        <position x="0.033333" y="0.566667"/>
+        <position x="0.066667" y="0.566667"/>
+        <position x="0.100000" y="0.566667"/>
+        <position x="0.133333" y="0.566667"/>
+        <position x="0.166667" y="0.566667"/>
+        <position x="0.200000" y="0.566667"/>
+        <position x="0.233333" y="0.566667"/>
+        <position x="0.266667" y="0.566667"/>
+        <position x="0.300000" y="0.566667"/>
+        <position x="0.333333" y="0.566667"/>
+        <position x="0.366667" y="0.566667"/>
+        <position x="0.400000" y="0.566667"/>
+        <position x="0.433333" y="0.566667"/>
+        <position x="0.466667" y="0.566667"/>
+        <position x="0.500000" y="0.566667"/>
+        <position x="0.533333" y="0.566667"/>
+        <position x="0.566667" y="0.566667"/>
+        <position x="0.600000" y="0.566667"/>
+        <position x="0.633333" y="0.566667"/>
+        <position x="0.666667" y="0.566667"/>
+        <position x="0.700000" y="0.566667"/>
+        <position x="0.733333" y="0.566667"/>
+        <position x="0.766667" y="0.566667"/>
+        <position x="0.800000" y="0.566667"/>
+        <position x="0.833333" y="0.566667"/>
+        <position x="0.866667" y="0.566667"/>
+        <position x="0.900000" y="0.566667"/>
+        <position x="0.933333" y="0.566667"/>
+        <position x="0.966667" y="0.566667"/>
+        <position x="1.000000" y="0.566667"/>
+
+        <position x="0.000000" y="0.600000"/>
+        <position x="0.033333" y="0.600000"/>
+        <position x="0.066667" y="0.600000"/>
+        <position x="0.100000" y="0.600000"/>
+        <position x="0.133333" y="0.600000"/>
+        <position x="0.166667" y="0.600000"/>
+        <position x="0.200000" y="0.600000"/>
+        <position x="0.233333" y="0.600000"/>
+        <position x="0.266667" y="0.600000"/>
+        <position x="0.300000" y="0.600000"/>
+        <position x="0.333333" y="0.600000"/>
+        <position x="0.366667" y="0.600000"/>
+        <position x="0.400000" y="0.600000"/>
+        <position x="0.433333" y="0.600000"/>
+        <position x="0.466667" y="0.600000"/>
+        <position x="0.500000" y="0.600000"/>
+        <position x="0.533333" y="0.600000"/>
+        <position x="0.566667" y="0.600000"/>
+        <position x="0.600000" y="0.600000"/>
+        <position x="0.633333" y="0.600000"/>
+        <position x="0.666667" y="0.600000"/>
+        <position x="0.700000" y="0.600000"/>
+        <position x="0.733333" y="0.600000"/>
+        <position x="0.766667" y="0.600000"/>
+        <position x="0.800000" y="0.600000"/>
+        <position x="0.833333" y="0.600000"/>
+        <position x="0.866667" y="0.600000"/>
+        <position x="0.900000" y="0.600000"/>
+        <position x="0.933333" y="0.600000"/>
+        <position x="0.966667" y="0.600000"/>
+        <position x="1.000000" y="0.600000"/>
+
+        <position x="0.000000" y="0.633333"/>
+        <position x="0.033333" y="0.633333"/>
+        <position x="0.066667" y="0.633333"/>
+        <position x="0.100000" y="0.633333"/>
+        <position x="0.133333" y="0.633333"/>
+        <position x="0.166667" y="0.633333"/>
+        <position x="0.200000" y="0.633333"/>
+        <position x="0.233333" y="0.633333"/>
+        <position x="0.266667" y="0.633333"/>
+        <position x="0.300000" y="0.633333"/>
+        <position x="0.333333" y="0.633333"/>
+        <position x="0.366667" y="0.633333"/>
+        <position x="0.400000" y="0.633333"/>
+        <position x="0.433333" y="0.633333"/>
+        <position x="0.466667" y="0.633333"/>
+        <position x="0.500000" y="0.633333"/>
+        <position x="0.533333" y="0.633333"/>
+        <position x="0.566667" y="0.633333"/>
+        <position x="0.600000" y="0.633333"/>
+        <position x="0.633333" y="0.633333"/>
+        <position x="0.666667" y="0.633333"/>
+        <position x="0.700000" y="0.633333"/>
+        <position x="0.733333" y="0.633333"/>
+        <position x="0.766667" y="0.633333"/>
+        <position x="0.800000" y="0.633333"/>
+        <position x="0.833333" y="0.633333"/>
+        <position x="0.866667" y="0.633333"/>
+        <position x="0.900000" y="0.633333"/>
+        <position x="0.933333" y="0.633333"/>
+        <position x="0.966667" y="0.633333"/>
+        <position x="1.000000" y="0.633333"/>
+
+        <position x="0.000000" y="0.666667"/>
+        <position x="0.033333" y="0.666667"/>
+        <position x="0.066667" y="0.666667"/>
+        <position x="0.100000" y="0.666667"/>
+        <position x="0.133333" y="0.666667"/>
+        <position x="0.166667" y="0.666667"/>
+        <position x="0.200000" y="0.666667"/>
+        <position x="0.233333" y="0.666667"/>
+        <position x="0.266667" y="0.666667"/>
+        <position x="0.300000" y="0.666667"/>
+        <position x="0.333333" y="0.666667"/>
+        <position x="0.366667" y="0.666667"/>
+        <position x="0.400000" y="0.666667"/>
+        <position x="0.433333" y="0.666667"/>
+        <position x="0.466667" y="0.666667"/>
+        <position x="0.500000" y="0.666667"/>
+        <position x="0.533333" y="0.666667"/>
+        <position x="0.566667" y="0.666667"/>
+        <position x="0.600000" y="0.666667"/>
+        <position x="0.633333" y="0.666667"/>
+        <position x="0.666667" y="0.666667"/>
+        <position x="0.700000" y="0.666667"/>
+        <position x="0.733333" y="0.666667"/>
+        <position x="0.766667" y="0.666667"/>
+        <position x="0.800000" y="0.666667"/>
+        <position x="0.833333" y="0.666667"/>
+        <position x="0.866667" y="0.666667"/>
+        <position x="0.900000" y="0.666667"/>
+        <position x="0.933333" y="0.666667"/>
+        <position x="0.966667" y="0.666667"/>
+        <position x="1.000000" y="0.666667"/>
+
+        <position x="0.000000" y="0.700000"/>
+        <position x="0.033333" y="0.700000"/>
+        <position x="0.066667" y="0.700000"/>
+        <position x="0.100000" y="0.700000"/>
+        <position x="0.133333" y="0.700000"/>
+        <position x="0.166667" y="0.700000"/>
+        <position x="0.200000" y="0.700000"/>
+        <position x="0.233333" y="0.700000"/>
+        <position x="0.266667" y="0.700000"/>
+        <position x="0.300000" y="0.700000"/>
+        <position x="0.333333" y="0.700000"/>
+        <position x="0.366667" y="0.700000"/>
+        <position x="0.400000" y="0.700000"/>
+        <position x="0.433333" y="0.700000"/>
+        <position x="0.466667" y="0.700000"/>
+        <position x="0.500000" y="0.700000"/>
+        <position x="0.533333" y="0.700000"/>
+        <position x="0.566667" y="0.700000"/>
+        <position x="0.600000" y="0.700000"/>
+        <position x="0.633333" y="0.700000"/>
+        <position x="0.666667" y="0.700000"/>
+        <position x="0.700000" y="0.700000"/>
+        <position x="0.733333" y="0.700000"/>
+        <position x="0.766667" y="0.700000"/>
+        <position x="0.800000" y="0.700000"/>
+        <position x="0.833333" y="0.700000"/>
+        <position x="0.866667" y="0.700000"/>
+        <position x="0.900000" y="0.700000"/>
+        <position x="0.933333" y="0.700000"/>
+        <position x="0.966667" y="0.700000"/>
+        <position x="1.000000" y="0.700000"/>
+
+        <position x="0.000000" y="0.733333"/>
+        <position x="0.033333" y="0.733333"/>
+        <position x="0.066667" y="0.733333"/>
+        <position x="0.100000" y="0.733333"/>
+        <position x="0.133333" y="0.733333"/>
+        <position x="0.166667" y="0.733333"/>
+        <position x="0.200000" y="0.733333"/>
+        <position x="0.233333" y="0.733333"/>
+        <position x="0.266667" y="0.733333"/>
+        <position x="0.300000" y="0.733333"/>
+        <position x="0.333333" y="0.733333"/>
+        <position x="0.366667" y="0.733333"/>
+        <position x="0.400000" y="0.733333"/>
+        <position x="0.433333" y="0.733333"/>
+        <position x="0.466667" y="0.733333"/>
+        <position x="0.500000" y="0.733333"/>
+        <position x="0.533333" y="0.733333"/>
+        <position x="0.566667" y="0.733333"/>
+        <position x="0.600000" y="0.733333"/>
+        <position x="0.633333" y="0.733333"/>
+        <position x="0.666667" y="0.733333"/>
+        <position x="0.700000" y="0.733333"/>
+        <position x="0.733333" y="0.733333"/>
+        <position x="0.766667" y="0.733333"/>
+        <position x="0.800000" y="0.733333"/>
+        <position x="0.833333" y="0.733333"/>
+        <position x="0.866667" y="0.733333"/>
+        <position x="0.900000" y="0.733333"/>
+        <position x="0.933333" y="0.733333"/>
+        <position x="0.966667" y="0.733333"/>
+        <position x="1.000000" y="0.733333"/>
+
+        <position x="0.000000" y="0.766667"/>
+        <position x="0.033333" y="0.766667"/>
+        <position x="0.066667" y="0.766667"/>
+        <position x="0.100000" y="0.766667"/>
+        <position x="0.133333" y="0.766667"/>
+        <position x="0.166667" y="0.766667"/>
+        <position x="0.200000" y="0.766667"/>
+        <position x="0.233333" y="0.766667"/>
+        <position x="0.266667" y="0.766667"/>
+        <position x="0.300000" y="0.766667"/>
+        <position x="0.333333" y="0.766667"/>
+        <position x="0.366667" y="0.766667"/>
+        <position x="0.400000" y="0.766667"/>
+        <position x="0.433333" y="0.766667"/>
+        <position x="0.466667" y="0.766667"/>
+        <position x="0.500000" y="0.766667"/>
+        <position x="0.533333" y="0.766667"/>
+        <position x="0.566667" y="0.766667"/>
+        <position x="0.600000" y="0.766667"/>
+        <position x="0.633333" y="0.766667"/>
+        <position x="0.666667" y="0.766667"/>
+        <position x="0.700000" y="0.766667"/>
+        <position x="0.733333" y="0.766667"/>
+        <position x="0.766667" y="0.766667"/>
+        <position x="0.800000" y="0.766667"/>
+        <position x="0.833333" y="0.766667"/>
+        <position x="0.866667" y="0.766667"/>
+        <position x="0.900000" y="0.766667"/>
+        <position x="0.933333" y="0.766667"/>
+        <position x="0.966667" y="0.766667"/>
+        <position x="1.000000" y="0.766667"/>
+
+        <position x="0.000000" y="0.800000"/>
+        <position x="0.033333" y="0.800000"/>
+        <position x="0.066667" y="0.800000"/>
+        <position x="0.100000" y="0.800000"/>
+        <position x="0.133333" y="0.800000"/>
+        <position x="0.166667" y="0.800000"/>
+        <position x="0.200000" y="0.800000"/>
+        <position x="0.233333" y="0.800000"/>
+        <position x="0.266667" y="0.800000"/>
+        <position x="0.300000" y="0.800000"/>
+        <position x="0.333333" y="0.800000"/>
+        <position x="0.366667" y="0.800000"/>
+        <position x="0.400000" y="0.800000"/>
+        <position x="0.433333" y="0.800000"/>
+        <position x="0.466667" y="0.800000"/>
+        <position x="0.500000" y="0.800000"/>
+        <position x="0.533333" y="0.800000"/>
+        <position x="0.566667" y="0.800000"/>
+        <position x="0.600000" y="0.800000"/>
+        <position x="0.633333" y="0.800000"/>
+        <position x="0.666667" y="0.800000"/>
+        <position x="0.700000" y="0.800000"/>
+        <position x="0.733333" y="0.800000"/>
+        <position x="0.766667" y="0.800000"/>
+        <position x="0.800000" y="0.800000"/>
+        <position x="0.833333" y="0.800000"/>
+        <position x="0.866667" y="0.800000"/>
+        <position x="0.900000" y="0.800000"/>
+        <position x="0.933333" y="0.800000"/>
+        <position x="0.966667" y="0.800000"/>
+        <position x="1.000000" y="0.800000"/>
+
+        <position x="0.000000" y="0.833333"/>
+        <position x="0.033333" y="0.833333"/>
+        <position x="0.066667" y="0.833333"/>
+        <position x="0.100000" y="0.833333"/>
+        <position x="0.133333" y="0.833333"/>
+        <position x="0.166667" y="0.833333"/>
+        <position x="0.200000" y="0.833333"/>
+        <position x="0.233333" y="0.833333"/>
+        <position x="0.266667" y="0.833333"/>
+        <position x="0.300000" y="0.833333"/>
+        <position x="0.333333" y="0.833333"/>
+        <position x="0.366667" y="0.833333"/>
+        <position x="0.400000" y="0.833333"/>
+        <position x="0.433333" y="0.833333"/>
+        <position x="0.466667" y="0.833333"/>
+        <position x="0.500000" y="0.833333"/>
+        <position x="0.533333" y="0.833333"/>
+        <position x="0.566667" y="0.833333"/>
+        <position x="0.600000" y="0.833333"/>
+        <position x="0.633333" y="0.833333"/>
+        <position x="0.666667" y="0.833333"/>
+        <position x="0.700000" y="0.833333"/>
+        <position x="0.733333" y="0.833333"/>
+        <position x="0.766667" y="0.833333"/>
+        <position x="0.800000" y="0.833333"/>
+        <position x="0.833333" y="0.833333"/>
+        <position x="0.866667" y="0.833333"/>
+        <position x="0.900000" y="0.833333"/>
+        <position x="0.933333" y="0.833333"/>
+        <position x="0.966667" y="0.833333"/>
+        <position x="1.000000" y="0.833333"/>
+
+        <position x="0.000000" y="0.866667"/>
+        <position x="0.033333" y="0.866667"/>
+        <position x="0.066667" y="0.866667"/>
+        <position x="0.100000" y="0.866667"/>
+        <position x="0.133333" y="0.866667"/>
+        <position x="0.166667" y="0.866667"/>
+        <position x="0.200000" y="0.866667"/>
+        <position x="0.233333" y="0.866667"/>
+        <position x="0.266667" y="0.866667"/>
+        <position x="0.300000" y="0.866667"/>
+        <position x="0.333333" y="0.866667"/>
+        <position x="0.366667" y="0.866667"/>
+        <position x="0.400000" y="0.866667"/>
+        <position x="0.433333" y="0.866667"/>
+        <position x="0.466667" y="0.866667"/>
+        <position x="0.500000" y="0.866667"/>
+        <position x="0.533333" y="0.866667"/>
+        <position x="0.566667" y="0.866667"/>
+        <position x="0.600000" y="0.866667"/>
+        <position x="0.633333" y="0.866667"/>
+        <position x="0.666667" y="0.866667"/>
+        <position x="0.700000" y="0.866667"/>
+        <position x="0.733333" y="0.866667"/>
+        <position x="0.766667" y="0.866667"/>
+        <position x="0.800000" y="0.866667"/>
+        <position x="0.833333" y="0.866667"/>
+        <position x="0.866667" y="0.866667"/>
+        <position x="0.900000" y="0.866667"/>
+        <position x="0.933333" y="0.866667"/>
+        <position x="0.966667" y="0.866667"/>
+        <position x="1.000000" y="0.866667"/>
+
+        <position x="0.000000" y="0.900000"/>
+        <position x="0.033333" y="0.900000"/>
+        <position x="0.066667" y="0.900000"/>
+        <position x="0.100000" y="0.900000"/>
+        <position x="0.133333" y="0.900000"/>
+        <position x="0.166667" y="0.900000"/>
+        <position x="0.200000" y="0.900000"/>
+        <position x="0.233333" y="0.900000"/>
+        <position x="0.266667" y="0.900000"/>
+        <position x="0.300000" y="0.900000"/>
+        <position x="0.333333" y="0.900000"/>
+        <position x="0.366667" y="0.900000"/>
+        <position x="0.400000" y="0.900000"/>
+        <position x="0.433333" y="0.900000"/>
+        <position x="0.466667" y="0.900000"/>
+        <position x="0.500000" y="0.900000"/>
+        <position x="0.533333" y="0.900000"/>
+        <position x="0.566667" y="0.900000"/>
+        <position x="0.600000" y="0.900000"/>
+        <position x="0.633333" y="0.900000"/>
+        <position x="0.666667" y="0.900000"/>
+        <position x="0.700000" y="0.900000"/>
+        <position x="0.733333" y="0.900000"/>
+        <position x="0.766667" y="0.900000"/>
+        <position x="0.800000" y="0.900000"/>
+        <position x="0.833333" y="0.900000"/>
+        <position x="0.866667" y="0.900000"/>
+        <position x="0.900000" y="0.900000"/>
+        <position x="0.933333" y="0.900000"/>
+        <position x="0.966667" y="0.900000"/>
+        <position x="1.000000" y="0.900000"/>
+
+        <position x="0.000000" y="0.933333"/>
+        <position x="0.033333" y="0.933333"/>
+        <position x="0.066667" y="0.933333"/>
+        <position x="0.100000" y="0.933333"/>
+        <position x="0.133333" y="0.933333"/>
+        <position x="0.166667" y="0.933333"/>
+        <position x="0.200000" y="0.933333"/>
+        <position x="0.233333" y="0.933333"/>
+        <position x="0.266667" y="0.933333"/>
+        <position x="0.300000" y="0.933333"/>
+        <position x="0.333333" y="0.933333"/>
+        <position x="0.366667" y="0.933333"/>
+        <position x="0.400000" y="0.933333"/>
+        <position x="0.433333" y="0.933333"/>
+        <position x="0.466667" y="0.933333"/>
+        <position x="0.500000" y="0.933333"/>
+        <position x="0.533333" y="0.933333"/>
+        <position x="0.566667" y="0.933333"/>
+        <position x="0.600000" y="0.933333"/>
+        <position x="0.633333" y="0.933333"/>
+        <position x="0.666667" y="0.933333"/>
+        <position x="0.700000" y="0.933333"/>
+        <position x="0.733333" y="0.933333"/>
+        <position x="0.766667" y="0.933333"/>
+        <position x="0.800000" y="0.933333"/>
+        <position x="0.833333" y="0.933333"/>
+        <position x="0.866667" y="0.933333"/>
+        <position x="0.900000" y="0.933333"/>
+        <position x="0.933333" y="0.933333"/>
+        <position x="0.966667" y="0.933333"/>
+        <position x="1.000000" y="0.933333"/>
+
+        <position x="0.000000" y="0.966667"/>
+        <position x="0.033333" y="0.966667"/>
+        <position x="0.066667" y="0.966667"/>
+        <position x="0.100000" y="0.966667"/>
+        <position x="0.133333" y="0.966667"/>
+        <position x="0.166667" y="0.966667"/>
+        <position x="0.200000" y="0.966667"/>
+        <position x="0.233333" y="0.966667"/>
+        <position x="0.266667" y="0.966667"/>
+        <position x="0.300000" y="0.966667"/>
+        <position x="0.333333" y="0.966667"/>
+        <position x="0.366667" y="0.966667"/>
+        <position x="0.400000" y="0.966667"/>
+        <position x="0.433333" y="0.966667"/>
+        <position x="0.466667" y="0.966667"/>
+        <position x="0.500000" y="0.966667"/>
+        <position x="0.533333" y="0.966667"/>
+        <position x="0.566667" y="0.966667"/>
+        <position x="0.600000" y="0.966667"/>
+        <position x="0.633333" y="0.966667"/>
+        <position x="0.666667" y="0.966667"/>
+        <position x="0.700000" y="0.966667"/>
+        <position x="0.733333" y="0.966667"/>
+        <position x="0.766667" y="0.966667"/>
+        <position x="0.800000" y="0.966667"/>
+        <position x="0.833333" y="0.966667"/>
+        <position x="0.866667" y="0.966667"/>
+        <position x="0.900000" y="0.966667"/>
+        <position x="0.933333" y="0.966667"/>
+        <position x="0.966667" y="0.966667"/>
+        <position x="1.000000" y="0.966667"/>
+
+        <position x="0.000000" y="1.000000"/>
+        <position x="0.033333" y="1.000000"/>
+        <position x="0.066667" y="1.000000"/>
+        <position x="0.100000" y="1.000000"/>
+        <position x="0.133333" y="1.000000"/>
+        <position x="0.166667" y="1.000000"/>
+        <position x="0.200000" y="1.000000"/>
+        <position x="0.233333" y="1.000000"/>
+        <position x="0.266667" y="1.000000"/>
+        <position x="0.300000" y="1.000000"/>
+        <position x="0.333333" y="1.000000"/>
+        <position x="0.366667" y="1.000000"/>
+        <position x="0.400000" y="1.000000"/>
+        <position x="0.433333" y="1.000000"/>
+        <position x="0.466667" y="1.000000"/>
+        <position x="0.500000" y="1.000000"/>
+        <position x="0.533333" y="1.000000"/>
+        <position x="0.566667" y="1.000000"/>
+        <position x="0.600000" y="1.000000"/>
+        <position x="0.633333" y="1.000000"/>
+        <position x="0.666667" y="1.000000"/>
+        <position x="0.700000" y="1.000000"/>
+        <position x="0.733333" y="1.000000"/>
+        <position x="0.766667" y="1.000000"/>
+        <position x="0.800000" y="1.000000"/>
+        <position x="0.833333" y="1.000000"/>
+        <position x="0.866667" y="1.000000"/>
+        <position x="0.900000" y="1.000000"/>
+        <position x="0.933333" y="1.000000"/>
+        <position x="0.966667" y="1.000000"/>
+        <position x="1.000000" y="1.000000"/>
+      </position_set>
+
+      <color_set>
+        <color B="61" G="71" R="95"/>
+        <color B="66" G="79" R="111"/>
+        <color B="68" G="88" R="123"/>
+        <color B="72" G="97" R="137"/>
+        <color B="77" G="110" R="155"/>
+        <color B="224" G="249" R="253"/>
+        <color B="240" G="254" R="252"/>
+        <color B="80" G="123" R="172"/>
+        <color B="80" G="121" R="166"/>
+        <color B="76" G="121" R="165"/>
+        <color B="177" G="208" R="231"/>
+        <color B="67" G="116" R="164"/>
+        <color B="62" G="95" R="141"/>
+        <color B="56" G="81" R="125"/>
+        <color B="51" G="68" R="107"/>
+        <color B="49" G="60" R="92"/>
+        <color B="44" G="52" R="81"/>
+        <color B="45" G="55" R="85"/>
+        <color B="39" G="61" R="103"/>
+        <color B="39" G="67" R="114"/>
+        <color B="30" G="40" R="74"/>
+        <color B="32" G="48" R="85"/>
+        <color B="46" G="69" R="114"/>
+        <color B="31" G="75" R="139"/>
+        <color B="14" G="37" R="87"/>
+        <color B="9" G="41" R="107"/>
+        <color B="8" G="55" R="141"/>
+        <color B="5" G="66" R="159"/>
+        <color B="12" G="38" R="78"/>
+        <color B="15" G="29" R="65"/>
+        <color B="24" G="97" R="188"/>
+
+        <color B="63" G="73" R="97"/>
+        <color B="68" G="83" R="116"/>
+        <color B="72" G="96" R="132"/>
+        <color B="76" G="106" R="147"/>
+        <color B="89" G="124" R="168"/>
+        <color B="225" G="243" R="254"/>
+        <color B="224" G="241" R="254"/>
+        <color B="113" G="159" R="206"/>
+        <color B="94" G="135" R="184"/>
+        <color B="92" G="141" R="191"/>
+        <color B="197" G="227" R="252"/>
+        <color B="157" G="199" R="242"/>
+        <color B="70" G="106" R="154"/>
+        <color B="63" G="92" R="137"/>
+        <color B="59" G="82" R="127"/>
+        <color B="51" G="70" R="105"/>
+        <color B="46" G="56" R="86"/>
+        <color B="49" G="65" R="101"/>
+        <color B="44" G="72" R="119"/>
+        <color B="47" G="81" R="135"/>
+        <color B="37" G="60" R="110"/>
+        <color B="41" G="67" R="133"/>
+        <color B="76" G="99" R="144"/>
+        <color B="42" G="92" R="164"/>
+        <color B="15" G="55" R="138"/>
+        <color B="17" G="94" R="187"/>
+        <color B="24" G="102" R="203"/>
+        <color B="13" G="77" R="185"/>
+        <color B="9" G="40" R="115"/>
+        <color B="18" G="22" R="47"/>
+        <color B="8" G="51" R="124"/>
+
+        <color B="66" G="78" R="106"/>
+        <color B="73" G="98" R="140"/>
+        <color B="84" G="114" R="155"/>
+        <color B="82" G="113" R="158"/>
+        <color B="95" G="132" R="176"/>
+        <color B="120" G="165" R="209"/>
+        <color B="118" G="163" R="207"/>
+        <color B="117" G="164" R="208"/>
+        <color B="101" G="147" R="195"/>
+        <color B="103" G="155" R="202"/>
+        <color B="200" G="228" R="252"/>
+        <color B="122" G="172" R="225"/>
+        <color B="74" G="113" R="165"/>
+        <color B="65" G="100" R="150"/>
+        <color B="181" G="212" R="243"/>
+        <color B="181" G="213" R="249"/>
+        <color B="51" G="63" R="97"/>
+        <color B="54" G="74" R="115"/>
+        <color B="52" G="97" R="154"/>
+        <color B="52" G="98" R="169"/>
+        <color B="42" G="79" R="147"/>
+        <color B="42" G="70" R="141"/>
+        <color B="84" G="102" R="139"/>
+        <color B="46" G="99" R="172"/>
+        <color B="20" G="100" R="193"/>
+        <color B="54" G="140" R="222"/>
+        <color B="24" G="111" R="215"/>
+        <color B="15" G="84" R="193"/>
+        <color B="9" G="49" R="138"/>
+        <color B="23" G="20" R="29"/>
+        <color B="19" G="21" R="45"/>
+
+        <color B="70" G="94" R="124"/>
+        <color B="183" G="222" R="254"/>
+        <color B="93" G="127" R="173"/>
+        <color B="87" G="122" R="166"/>
+        <color B="101" G="138" R="182"/>
+        <color B="114" G="154" R="196"/>
+        <color B="110" G="153" R="196"/>
+        <color B="106" G="150" R="197"/>
+        <color B="120" G="165" R="209"/>
+        <color B="128" G="176" R="218"/>
+        <color B="138" G="188" R="230"/>
+        <color B="114" G="170" R="217"/>
+        <color B="88" G="140" R="193"/>
+        <color B="71" G="114" R="171"/>
+        <color B="194" G="222" R="246"/>
+        <color B="191" G="219" R="243"/>
+        <color B="53" G="75" R="117"/>
+        <color B="57" G="88" R="139"/>
+        <color B="60" G="120" R="190"/>
+        <color B="50" G="110" R="194"/>
+        <color B="39" G="82" R="163"/>
+        <color B="36" G="61" R="125"/>
+        <color B="80" G="98" R="135"/>
+        <color B="50" G="102" R="178"/>
+        <color B="24" G="108" R="204"/>
+        <color B="62" G="141" R="222"/>
+        <color B="15" G="89" R="195"/>
+        <color B="9" G="59" R="159"/>
+        <color B="9" G="38" R="107"/>
+        <color B="24" G="21" R="36"/>
+        <color B="25" G="16" R="26"/>
+
+        <color B="132" G="188" R="235"/>
+        <color B="192" G="227" R="253"/>
+        <color B="89" G="128" R="173"/>
+        <color B="98" G="142" R="179"/>
+        <color B="112" G="150" R="192"/>
+        <color B="111" G="153" R="195"/>
+        <color B="110" G="153" R="196"/>
+        <color B="109" G="154" R="198"/>
+        <color B="129" G="172" R="215"/>
+        <color B="137" G="181" R="222"/>
+        <color B="129" G="180" R="223"/>
+        <color B="194" G="224" R="253"/>
+        <color B="132" G="186" R="233"/>
+        <color B="83" G="144" R="210"/>
+        <color B="194" G="221" R="247"/>
+        <color B="189" G="220" R="245"/>
+        <color B="54" G="81" R="132"/>
+        <color B="58" G="96" R="150"/>
+        <color B="59" G="121" R="192"/>
+        <color B="41" G="99" R="181"/>
+        <color B="35" G="70" R="138"/>
+        <color B="37" G="55" R="102"/>
+        <color B="67" G="90" R="136"/>
+        <color B="50" G="104" R="181"/>
+        <color B="16" G="77" R="163"/>
+        <color B="39" G="102" R="183"/>
+        <color B="12" G="51" R="120"/>
+        <color B="12" G="41" R="86"/>
+        <color B="19" G="31" R="65"/>
+        <color B="29" G="20" R="33"/>
+        <color B="26" G="18" R="25"/>
+
+        <color B="158" G="206" R="242"/>
+        <color B="165" G="208" R="251"/>
+        <color B="179" G="215" R="251"/>
+        <color B="187" G="221" R="251"/>
+        <color B="126" G="167" R="206"/>
+        <color B="174" G="216" R="251"/>
+        <color B="111" G="155" R="202"/>
+        <color B="117" G="159" R="204"/>
+        <color B="132" G="177" R="215"/>
+        <color B="141" G="183" R="218"/>
+        <color B="137" G="183" R="224"/>
+        <color B="197" G="227" R="252"/>
+        <color B="134" G="189" R="234"/>
+        <color B="140" G="196" R="245"/>
+        <color B="89" G="166" R="235"/>
+        <color B="68" G="136" R="211"/>
+        <color B="133" G="190" R="241"/>
+        <color B="62" G="106" R="160"/>
+        <color B="55" G="110" R="183"/>
+        <color B="49" G="92" R="159"/>
+        <color B="42" G="69" R="119"/>
+        <color B="42" G="58" R="100"/>
+        <color B="56" G="86" R="145"/>
+        <color B="52" G="106" R="183"/>
+        <color B="23" G="47" R="99"/>
+        <color B="34" G="59" R="99"/>
+        <color B="30" G="43" R="75"/>
+        <color B="39" G="59" R="94"/>
+        <color B="30" G="44" R="80"/>
+        <color B="29" G="22" R="35"/>
+        <color B="27" G="18" R="21"/>
+
+        <color B="148" G="193" R="231"/>
+        <color B="125" G="160" R="204"/>
+        <color B="138" G="178" R="220"/>
+        <color B="195" G="225" R="254"/>
+        <color B="174" G="216" R="251"/>
+        <color B="184" G="222" R="252"/>
+        <color B="176" G="216" R="251"/>
+        <color B="175" G="217" R="252"/>
+        <color B="190" G="222" R="251"/>
+        <color B="181" G="216" R="249"/>
+        <color B="150" G="192" R="229"/>
+        <color B="193" G="225" R="254"/>
+        <color B="128" G="187" R="233"/>
+        <color B="185" G="223" R="253"/>
+        <color B="183" G="222" R="254"/>
+        <color B="158" G="204" R="245"/>
+        <color B="160" G="207" R="245"/>
+        <color B="83" G="128" R="179"/>
+        <color B="54" G="109" R="178"/>
+        <color B="185" G="216" R="247"/>
+        <color B="178" G="217" R="249"/>
+        <color B="50" G="67" R="100"/>
+        <color B="55" G="89" R="143"/>
+        <color B="52" G="104" R="181"/>
+        <color B="32" G="47" R="80"/>
+        <color B="35" G="39" R="58"/>
+        <color B="38" G="45" R="70"/>
+        <color B="45" G="67" R="103"/>
+        <color B="30" G="44" R="73"/>
+        <color B="29" G="21" R="31"/>
+        <color B="29" G="18" R="21"/>
+
+        <color B="118" G="157" R="195"/>
+        <color B="104" G="131" R="168"/>
+        <color B="144" G="180" R="220"/>
+        <color B="154" G="189" R="223"/>
+        <color B="178" G="216" R="250"/>
+        <color B="184" G="219" R="252"/>
+        <color B="189" G="223" R="253"/>
+        <color B="180" G="218" R="253"/>
+        <color B="194" G="224" R="253"/>
+        <color B="186" G="220" R="250"/>
+        <color B="144" G="189" R="226"/>
+        <color B="178" G="213" R="246"/>
+        <color B="136" G="191" R="236"/>
+        <color B="192" G="227" R="253"/>
+        <color B="194" G="228" R="252"/>
+        <color B="186" G="217" R="242"/>
+        <color B="193" G="224" R="249"/>
+        <color B="111" G="151" R="193"/>
+        <color B="55" G="112" R="181"/>
+        <color B="202" G="222" R="239"/>
+        <color B="184" G="218" R="247"/>
+        <color B="124" G="148" R="160"/>
+        <color B="98" G="127" R="164"/>
+        <color B="52" G="102" R="178"/>
+        <color B="50" G="60" R="90"/>
+        <color B="77" G="74" R="83"/>
+        <color B="35" G="39" R="57"/>
+        <color B="35" G="44" R="71"/>
+        <color B="27" G="25" R="44"/>
+        <color B="30" G="23" R="28"/>
+        <color B="28" G="17" R="20"/>
+
+        <color B="103" G="119" R="136"/>
+        <color B="90" G="106" R="129"/>
+        <color B="166" G="190" R="210"/>
+        <color B="178" G="198" R="215"/>
+        <color B="176" G="206" R="231"/>
+        <color B="180" G="200" R="218"/>
+        <color B="185" G="214" R="241"/>
+        <color B="134" G="165" R="198"/>
+        <color B="175" G="207" R="236"/>
+        <color B="130" G="174" R="211"/>
+        <color B="117" G="162" R="206"/>
+        <color B="144" G="187" R="226"/>
+        <color B="114" G="171" R="222"/>
+        <color B="150" G="202" R="243"/>
+        <color B="190" G="224" R="253"/>
+        <color B="199" G="224" R="244"/>
+        <color B="200" G="222" R="240"/>
+        <color B="136" G="174" R="204"/>
+        <color B="59" G="112" R="179"/>
+        <color B="186" G="216" R="241"/>
+        <color B="96" G="132" R="168"/>
+        <color B="175" G="196" R="194"/>
+        <color B="155" G="181" R="198"/>
+        <color B="52" G="101" R="177"/>
+        <color B="62" G="80" R="111"/>
+        <color B="95" G="109" R="131"/>
+        <color B="42" G="69" R="103"/>
+        <color B="40" G="65" R="97"/>
+        <color B="35" G="51" R="74"/>
+        <color B="30" G="24" R="29"/>
+        <color B="27" G="18" R="21"/>
+
+        <color B="148" G="153" R="154"/>
+        <color B="108" G="114" R="125"/>
+        <color B="207" G="218" R="226"/>
+        <color B="210" G="219" R="229"/>
+        <color B="190" G="204" R="216"/>
+        <color B="202" G="212" R="222"/>
+        <color B="204" G="215" R="223"/>
+        <color B="152" G="171" R="192"/>
+        <color B="136" G="166" R="195"/>
+        <color B="123" G="162" R="206"/>
+        <color B="103" G="145" R="192"/>
+        <color B="107" G="153" R="200"/>
+        <color B="92" G="143" R="199"/>
+        <color B="86" G="147" R="209"/>
+        <color B="171" G="214" R="247"/>
+        <color B="179" G="211" R="230"/>
+        <color B="191" G="210" R="218"/>
+        <color B="136" G="172" R="202"/>
+        <color B="53" G="97" R="160"/>
+        <color B="67" G="104" R="164"/>
+        <color B="71" G="92" R="114"/>
+        <color B="163" G="184" R="181"/>
+        <color B="156" G="182" R="198"/>
+        <color B="51" G="100" R="174"/>
+        <color B="42" G="65" R="110"/>
+        <color B="50" G="75" R="109"/>
+        <color B="37" G="68" R="107"/>
+        <color B="45" G="81" R="117"/>
+        <color B="48" G="83" R="117"/>
+        <color B="32" G="32" R="44"/>
+        <color B="27" G="24" R="33"/>
+
+        <color B="129" G="135" R="142"/>
+        <color B="91" G="96" R="111"/>
+        <color B="208" G="218" R="228"/>
+        <color B="216" G="225" R="234"/>
+        <color B="196" G="208" R="218"/>
+        <color B="198" G="210" R="220"/>
+        <color B="204" G="215" R="219"/>
+        <color B="149" G="165" R="182"/>
+        <color B="129" G="155" R="185"/>
+        <color B="128" G="166" R="208"/>
+        <color B="103" G="142" R="187"/>
+        <color B="104" G="149" R="200"/>
+        <color B="97" G="148" R="204"/>
+        <color B="92" G="150" R="215"/>
+        <color B="82" G="147" R="216"/>
+        <color B="127" G="163" R="193"/>
+        <color B="178" G="194" R="200"/>
+        <color B="125" G="160" R="194"/>
+        <color B="52" G="90" R="154"/>
+        <color B="54" G="76" R="118"/>
+        <color B="62" G="82" R="107"/>
+        <color B="106" G="129" R="137"/>
+        <color B="116" G="150" R="179"/>
+        <color B="51" G="100" R="174"/>
+        <color B="34" G="53" R="96"/>
+        <color B="39" G="46" R="73"/>
+        <color B="30" G="41" R="63"/>
+        <color B="33" G="57" R="85"/>
+        <color B="41" G="68" R="102"/>
+        <color B="34" G="31" R="40"/>
+        <color B="25" G="22" R="31"/>
+
+        <color B="95" G="98" R="112"/>
+        <color B="76" G="79" R="93"/>
+        <color B="189" G="210" R="218"/>
+        <color B="210" G="219" R="228"/>
+        <color B="175" G="191" R="203"/>
+        <color B="143" G="165" R="193"/>
+        <color B="163" G="176" R="190"/>
+        <color B="110" G="134" R="164"/>
+        <color B="128" G="150" R="178"/>
+        <color B="116" G="151" R="194"/>
+        <color B="88" G="125" R="175"/>
+        <color B="98" G="142" R="195"/>
+        <color B="103" G="156" R="213"/>
+        <color B="94" G="155" R="219"/>
+        <color B="84" G="147" R="221"/>
+        <color B="113" G="144" R="183"/>
+        <color B="164" G="173" R="177"/>
+        <color B="120" G="152" R="188"/>
+        <color B="48" G="88" R="153"/>
+        <color B="62" G="86" R="132"/>
+        <color B="70" G="97" R="134"/>
+        <color B="84" G="111" R="148"/>
+        <color B="91" G="127" R="175"/>
+        <color B="53" G="99" R="176"/>
+        <color B="33" G="49" R="95"/>
+        <color B="39" G="45" R="68"/>
+        <color B="36" G="44" R="67"/>
+        <color B="47" G="60" R="82"/>
+        <color B="67" G="69" R="87"/>
+        <color B="32" G="26" R="27"/>
+        <color B="28" G="19" R="22"/>
+
+        <color B="66" G="66" R="84"/>
+        <color B="62" G="65" R="86"/>
+        <color B="108" G="135" R="161"/>
+        <color B="176" G="192" R="199"/>
+        <color B="97" G="112" R="138"/>
+        <color B="112" G="130" R="161"/>
+        <color B="131" G="152" R="180"/>
+        <color B="110" G="135" R="169"/>
+        <color B="135" G="156" R="177"/>
+        <color B="108" G="133" R="167"/>
+        <color B="86" G="116" R="163"/>
+        <color B="84" G="125" R="180"/>
+        <color B="91" G="142" R="205"/>
+        <color B="81" G="138" R="207"/>
+        <color B="74" G="134" R="210"/>
+        <color B="105" G="138" R="187"/>
+        <color B="155" G="167" R="185"/>
+        <color B="109" G="145" R="185"/>
+        <color B="46" G="85" R="153"/>
+        <color B="66" G="97" R="150"/>
+        <color B="78" G="105" R="155"/>
+        <color B="60" G="89" R="146"/>
+        <color B="62" G="100" R="165"/>
+        <color B="53" G="97" R="174"/>
+        <color B="32" G="48" R="91"/>
+        <color B="30" G="30" R="44"/>
+        <color B="50" G="61" R="91"/>
+        <color B="48" G="62" R="91"/>
+        <color B="80" G="75" R="90"/>
+        <color B="31" G="20" R="22"/>
+        <color B="28" G="17" R="20"/>
+
+        <color B="48" G="39" R="42"/>
+        <color B="74" G="70" R="81"/>
+        <color B="109" G="112" R="126"/>
+        <color B="82" G="93" R="115"/>
+        <color B="61" G="71" R="101"/>
+        <color B="76" G="91" R="124"/>
+        <color B="106" G="128" R="164"/>
+        <color B="123" G="147" R="177"/>
+        <color B="150" G="166" R="179"/>
+        <color B="106" G="119" R="141"/>
+        <color B="98" G="119" R="151"/>
+        <color B="65" G="87" R="128"/>
+        <color B="66" G="97" R="150"/>
+        <color B="60" G="94" R="153"/>
+        <color B="53" G="94" R="163"/>
+        <color B="76" G="118" R="185"/>
+        <color B="106" G="137" R="190"/>
+        <color B="76" G="114" R="178"/>
+        <color B="47" G="88" R="157"/>
+        <color B="53" G="81" R="141"/>
+        <color B="64" G="83" R="126"/>
+        <color B="51" G="68" R="117"/>
+        <color B="52" G="80" R="144"/>
+        <color B="51" G="92" R="165"/>
+        <color B="32" G="40" R="77"/>
+        <color B="34" G="31" R="47"/>
+        <color B="61" G="72" R="99"/>
+        <color B="39" G="43" R="62"/>
+        <color B="57" G="48" R="61"/>
+        <color B="30" G="19" R="22"/>
+        <color B="29" G="18" R="21"/>
+
+        <color B="50" G="36" R="37"/>
+        <color B="81" G="70" R="73"/>
+        <color B="111" G="105" R="106"/>
+        <color B="79" G="79" R="97"/>
+        <color B="65" G="74" R="111"/>
+        <color B="62" G="79" R="128"/>
+        <color B="84" G="114" R="173"/>
+        <color B="114" G="147" R="197"/>
+        <color B="144" G="167" R="193"/>
+        <color B="99" G="114" R="140"/>
+        <color B="94" G="106" R="130"/>
+        <color B="59" G="58" R="78"/>
+        <color B="52" G="54" R="78"/>
+        <color B="53" G="57" R="81"/>
+        <color B="49" G="53" R="78"/>
+        <color B="47" G="61" R="103"/>
+        <color B="46" G="60" R="102"/>
+        <color B="49" G="65" R="111"/>
+        <color B="45" G="67" R="119"/>
+        <color B="42" G="58" R="105"/>
+        <color B="50" G="59" R="93"/>
+        <color B="49" G="56" R="89"/>
+        <color B="48" G="64" R="111"/>
+        <color B="48" G="83" R="151"/>
+        <color B="32" G="38" R="67"/>
+        <color B="33" G="31" R="50"/>
+        <color B="55" G="59" R="84"/>
+        <color B="38" G="43" R="68"/>
+        <color B="36" G="40" R="75"/>
+        <color B="26" G="26" R="56"/>
+        <color B="26" G="24" R="54"/>
+
+        <color B="54" G="41" R="39"/>
+        <color B="104" G="92" R="90"/>
+        <color B="120" G="108" R="102"/>
+        <color B="67" G="60" R="73"/>
+        <color B="85" G="103" R="140"/>
+        <color B="99" G="130" R="183"/>
+        <color B="84" G="123" R="192"/>
+        <color B="70" G="106" R="176"/>
+        <color B="77" G="106" R="167"/>
+        <color B="61" G="84" R="134"/>
+        <color B="61" G="70" R="103"/>
+        <color B="57" G="50" R="65"/>
+        <color B="49" G="44" R="59"/>
+        <color B="50" G="43" R="58"/>
+        <color B="47" G="40" R="53"/>
+        <color B="45" G="38" R="51"/>
+        <color B="46" G="40" R="57"/>
+        <color B="48" G="43" R="64"/>
+        <color B="46" G="46" R="70"/>
+        <color B="42" G="47" R="72"/>
+        <color B="37" G="38" R="64"/>
+        <color B="38" G="40" R="64"/>
+        <color B="45" G="52" R="85"/>
+        <color B="45" G="67" R="119"/>
+        <color B="33" G="39" R="68"/>
+        <color B="33" G="25" R="26"/>
+        <color B="37" G="29" R="39"/>
+        <color B="31" G="31" R="49"/>
+        <color B="26" G="31" R="64"/>
+        <color B="26" G="28" R="58"/>
+        <color B="40" G="46" R="83"/>
+
+        <color B="69" G="50" R="47"/>
+        <color B="86" G="70" R="71"/>
+        <color B="95" G="80" R="77"/>
+        <color B="54" G="41" R="43"/>
+        <color B="51" G="43" R="50"/>
+        <color B="72" G="73" R="94"/>
+        <color B="67" G="70" R="101"/>
+        <color B="56" G="57" R="83"/>
+        <color B="67" G="85" R="126"/>
+        <color B="55" G="78" R="140"/>
+        <color B="57" G="83" R="153"/>
+        <color B="62" G="94" R="170"/>
+        <color B="59" G="95" R="173"/>
+        <color B="53" G="82" R="149"/>
+        <color B="47" G="61" R="113"/>
+        <color B="42" G="48" R="77"/>
+        <color B="44" G="39" R="54"/>
+        <color B="42" G="33" R="43"/>
+        <color B="39" G="31" R="41"/>
+        <color B="38" G="31" R="44"/>
+        <color B="35" G="27" R="34"/>
+        <color B="41" G="36" R="57"/>
+        <color B="52" G="52" R="76"/>
+        <color B="44" G="49" R="82"/>
+        <color B="45" G="50" R="83"/>
+        <color B="34" G="30" R="49"/>
+        <color B="32" G="23" R="33"/>
+        <color B="33" G="19" R="21"/>
+        <color B="29" G="18" R="26"/>
+        <color B="30" G="20" R="26"/>
+        <color B="38" G="29" R="39"/>
+
+        <color B="88" G="70" R="59"/>
+        <color B="72" G="55" R="46"/>
+        <color B="61" G="45" R="39"/>
+        <color B="65" G="51" R="52"/>
+        <color B="51" G="37" R="39"/>
+        <color B="70" G="63" R="78"/>
+        <color B="62" G="57" R="78"/>
+        <color B="59" G="52" R="65"/>
+        <color B="104" G="117" R="149"/>
+        <color B="107" G="137" R="186"/>
+        <color B="96" G="138" R="203"/>
+        <color B="71" G="128" R="214"/>
+        <color B="52" G="105" R="202"/>
+        <color B="44" G="94" R="190"/>
+        <color B="40" G="77" R="169"/>
+        <color B="37" G="60" R="135"/>
+        <color B="41" G="44" R="88"/>
+        <color B="39" G="29" R="41"/>
+        <color B="36" G="25" R="28"/>
+        <color B="34" G="21" R="23"/>
+        <color B="33" G="20" R="22"/>
+        <color B="40" G="32" R="49"/>
+        <color B="42" G="34" R="51"/>
+        <color B="38" G="28" R="41"/>
+        <color B="41" G="35" R="54"/>
+        <color B="32" G="21" R="31"/>
+        <color B="31" G="20" R="22"/>
+        <color B="28" G="15" R="13"/>
+        <color B="27" G="18" R="21"/>
+        <color B="31" G="16" R="14"/>
+        <color B="32" G="14" R="13"/>
+
+        <color B="64" G="104" R="163"/>
+        <color B="89" G="132" R="189"/>
+        <color B="102" G="140" R="198"/>
+        <color B="94" G="139" R="196"/>
+        <color B="101" G="147" R="205"/>
+        <color B="110" G="159" R="215"/>
+        <color B="120" G="167" R="221"/>
+        <color B="119" G="169" R="222"/>
+        <color B="124" G="172" R="224"/>
+        <color B="132" G="173" R="222"/>
+        <color B="124" G="154" R="201"/>
+        <color B="139" G="169" R="216"/>
+        <color B="160" G="191" R="230"/>
+        <color B="165" G="194" R="233"/>
+        <color B="169" G="196" R="233"/>
+        <color B="174" G="200" R="236"/>
+        <color B="183" G="208" R="240"/>
+        <color B="194" G="216" R="244"/>
+        <color B="196" G="217" R="245"/>
+        <color B="193" G="216" R="242"/>
+        <color B="191" G="213" R="241"/>
+        <color B="194" G="216" R="244"/>
+        <color B="195" G="218" R="244"/>
+        <color B="193" G="215" R="243"/>
+        <color B="190" G="214" R="242"/>
+        <color B="184" G="210" R="240"/>
+        <color B="175" G="203" R="237"/>
+        <color B="169" G="199" R="234"/>
+        <color B="155" G="190" R="230"/>
+        <color B="135" G="175" R="223"/>
+        <color B="112" G="153" R="208"/>
+
+        <color B="85" G="129" R="193"/>
+        <color B="96" G="143" R="204"/>
+        <color B="101" G="148" R="209"/>
+        <color B="88" G="137" R="199"/>
+        <color B="80" G="133" R="200"/>
+        <color B="85" G="140" R="207"/>
+        <color B="102" G="156" R="217"/>
+        <color B="106" G="160" R="220"/>
+        <color B="125" G="172" R="226"/>
+        <color B="142" G="183" R="232"/>
+        <color B="156" G="193" R="237"/>
+        <color B="168" G="202" R="238"/>
+        <color B="177" G="207" R="242"/>
+        <color B="181" G="209" R="243"/>
+        <color B="181" G="209" R="244"/>
+        <color B="184" G="211" R="245"/>
+        <color B="189" G="214" R="246"/>
+        <color B="192" G="216" R="246"/>
+        <color B="192" G="216" R="246"/>
+        <color B="192" G="216" R="244"/>
+        <color B="195" G="217" R="245"/>
+        <color B="193" G="217" R="245"/>
+        <color B="194" G="218" R="246"/>
+        <color B="191" G="215" R="245"/>
+        <color B="181" G="210" R="241"/>
+        <color B="165" G="196" R="235"/>
+        <color B="163" G="192" R="231"/>
+        <color B="154" G="189" R="233"/>
+        <color B="150" G="189" R="234"/>
+        <color B="142" G="183" R="232"/>
+        <color B="130" G="177" R="229"/>
+
+        <color B="84" G="139" R="208"/>
+        <color B="107" G="160" R="217"/>
+        <color B="119" G="171" R="224"/>
+        <color B="129" G="177" R="229"/>
+        <color B="138" G="184" R="232"/>
+        <color B="148" G="190" R="237"/>
+        <color B="145" G="190" R="234"/>
+        <color B="144" G="188" R="235"/>
+        <color B="140" G="183" R="232"/>
+        <color B="143" G="184" R="233"/>
+        <color B="141" G="181" R="229"/>
+        <color B="130" G="163" R="212"/>
+        <color B="146" G="180" R="226"/>
+        <color B="169" G="200" R="239"/>
+        <color B="179" G="207" R="242"/>
+        <color B="183" G="210" R="244"/>
+        <color B="196" G="218" R="246"/>
+        <color B="203" G="225" R="250"/>
+        <color B="209" G="227" R="250"/>
+        <color B="206" G="227" R="249"/>
+        <color B="204" G="224" R="249"/>
+        <color B="194" G="216" R="244"/>
+        <color B="195" G="217" R="245"/>
+        <color B="190" G="214" R="242"/>
+        <color B="189" G="216" R="243"/>
+        <color B="187" G="212" R="244"/>
+        <color B="176" G="205" R="242"/>
+        <color B="154" G="190" R="236"/>
+        <color B="140" G="179" R="231"/>
+        <color B="134" G="174" R="227"/>
+        <color B="111" G="154" R="211"/>
+
+        <color B="40" G="81" R="143"/>
+        <color B="45" G="96" R="166"/>
+        <color B="52" G="110" R="182"/>
+        <color B="64" G="127" R="201"/>
+        <color B="88" G="147" R="216"/>
+        <color B="102" G="160" R="225"/>
+        <color B="101" G="160" R="222"/>
+        <color B="100" G="160" R="226"/>
+        <color B="103" G="160" R="222"/>
+        <color B="113" G="165" R="225"/>
+        <color B="126" G="173" R="229"/>
+        <color B="139" G="182" R="231"/>
+        <color B="149" G="190" R="235"/>
+        <color B="164" G="199" R="239"/>
+        <color B="170" G="201" R="240"/>
+        <color B="180" G="208" R="242"/>
+        <color B="185" G="211" R="241"/>
+        <color B="188" G="214" R="244"/>
+        <color B="190" G="214" R="244"/>
+        <color B="197" G="221" R="251"/>
+        <color B="196" G="220" R="248"/>
+        <color B="199" G="222" R="248"/>
+        <color B="195" G="219" R="247"/>
+        <color B="196" G="220" R="250"/>
+        <color B="192" G="218" R="248"/>
+        <color B="190" G="216" R="246"/>
+        <color B="185" G="213" R="247"/>
+        <color B="173" G="208" R="248"/>
+        <color B="155" G="194" R="239"/>
+        <color B="138" G="181" R="230"/>
+        <color B="139" G="182" R="231"/>
+
+        <color B="107" G="169" R="229"/>
+        <color B="97" G="165" R="230"/>
+        <color B="114" G="177" R="235"/>
+        <color B="119" G="177" R="236"/>
+        <color B="130" G="187" R="242"/>
+        <color B="135" G="189" R="242"/>
+        <color B="136" G="188" R="241"/>
+        <color B="134" G="187" R="238"/>
+        <color B="142" G="191" R="239"/>
+        <color B="153" G="195" R="240"/>
+        <color B="163" G="203" R="245"/>
+        <color B="163" G="204" R="243"/>
+        <color B="174" G="210" R="246"/>
+        <color B="173" G="209" R="245"/>
+        <color B="183" G="214" R="247"/>
+        <color B="196" G="223" R="250"/>
+        <color B="203" G="227" R="251"/>
+        <color B="208" G="231" R="253"/>
+        <color B="209" G="233" R="253"/>
+        <color B="206" G="229" R="251"/>
+        <color B="202" G="228" R="252"/>
+        <color B="207" G="230" R="252"/>
+        <color B="205" G="229" R="251"/>
+        <color B="204" G="228" R="250"/>
+        <color B="202" G="226" R="250"/>
+        <color B="192" G="219" R="246"/>
+        <color B="189" G="218" R="245"/>
+        <color B="179" G="212" R="245"/>
+        <color B="159" G="200" R="239"/>
+        <color B="150" G="191" R="236"/>
+        <color B="154" G="193" R="237"/>
+
+        <color B="62" G="118" R="197"/>
+        <color B="50" G="102" R="178"/>
+        <color B="60" G="119" R="198"/>
+        <color B="72" G="128" R="205"/>
+        <color B="58" G="122" R="200"/>
+        <color B="81" G="139" R="214"/>
+        <color B="59" G="121" R="197"/>
+        <color B="96" G="156" R="226"/>
+        <color B="106" G="162" R="227"/>
+        <color B="118" G="167" R="229"/>
+        <color B="113" G="164" R="226"/>
+        <color B="110" G="155" R="216"/>
+        <color B="115" G="155" R="213"/>
+        <color B="144" G="181" R="239"/>
+        <color B="161" G="196" R="240"/>
+        <color B="167" G="197" R="238"/>
+        <color B="189" G="212" R="244"/>
+        <color B="176" G="198" R="234"/>
+        <color B="185" G="207" R="243"/>
+        <color B="199" G="221" R="246"/>
+        <color B="193" G="217" R="247"/>
+        <color B="191" G="214" R="246"/>
+        <color B="183" G="212" R="243"/>
+        <color B="181" G="209" R="244"/>
+        <color B="177" G="209" R="245"/>
+        <color B="183" G="213" R="248"/>
+        <color B="176" G="205" R="242"/>
+        <color B="170" G="203" R="242"/>
+        <color B="160" G="194" R="240"/>
+        <color B="138" G="181" R="230"/>
+        <color B="130" G="175" R="226"/>
+
+        <color B="84" G="143" R="215"/>
+        <color B="86" G="146" R="212"/>
+        <color B="121" G="175" R="235"/>
+        <color B="116" G="171" R="232"/>
+        <color B="111" G="168" R="229"/>
+        <color B="115" G="169" R="229"/>
+        <color B="106" G="160" R="221"/>
+        <color B="115" G="172" R="233"/>
+        <color B="134" G="181" R="237"/>
+        <color B="137" G="188" R="238"/>
+        <color B="149" G="192" R="241"/>
+        <color B="169" G="209" R="251"/>
+        <color B="161" G="201" R="249"/>
+        <color B="178" G="214" R="254"/>
+        <color B="198" G="227" R="254"/>
+        <color B="195" G="221" R="251"/>
+        <color B="203" G="228" R="254"/>
+        <color B="202" G="225" R="251"/>
+        <color B="197" G="221" R="249"/>
+        <color B="203" G="226" R="252"/>
+        <color B="208" G="230" R="255"/>
+        <color B="204" G="228" R="252"/>
+        <color B="204" G="228" R="250"/>
+        <color B="198" G="223" R="249"/>
+        <color B="196" G="221" R="247"/>
+        <color B="188" G="216" R="246"/>
+        <color B="180" G="212" R="247"/>
+        <color B="175" G="209" R="245"/>
+        <color B="170" G="204" R="240"/>
+        <color B="166" G="200" R="243"/>
+        <color B="152" G="192" R="240"/>
+
+        <color B="107" G="165" R="230"/>
+        <color B="113" G="170" R="231"/>
+        <color B="100" G="157" R="218"/>
+        <color B="99" G="159" R="219"/>
+        <color B="103" G="164" R="228"/>
+        <color B="115" G="172" R="233"/>
+        <color B="138" G="189" R="245"/>
+        <color B="136" G="184" R="236"/>
+        <color B="139" G="188" R="244"/>
+        <color B="122" G="175" R="232"/>
+        <color B="146" G="192" R="240"/>
+        <color B="154" G="195" R="240"/>
+        <color B="153" G="195" R="238"/>
+        <color B="174" G="207" R="246"/>
+        <color B="182" G="214" R="249"/>
+        <color B="182" G="213" R="246"/>
+        <color B="194" G="220" R="250"/>
+        <color B="196" G="223" R="250"/>
+        <color B="192" G="220" R="250"/>
+        <color B="192" G="217" R="249"/>
+        <color B="200" G="223" R="249"/>
+        <color B="203" G="226" R="248"/>
+        <color B="198" G="223" R="249"/>
+        <color B="199" G="225" R="249"/>
+        <color B="200" G="226" R="250"/>
+        <color B="191" G="218" R="245"/>
+        <color B="179" G="209" R="244"/>
+        <color B="163" G="199" R="239"/>
+        <color B="160" G="198" R="240"/>
+        <color B="172" G="205" R="244"/>
+        <color B="141" G="184" R="233"/>
+
+        <color B="85" G="140" R="209"/>
+        <color B="72" G="130" R="205"/>
+        <color B="78" G="137" R="207"/>
+        <color B="64" G="123" R="203"/>
+        <color B="59" G="117" R="199"/>
+        <color B="69" G="127" R="203"/>
+        <color B="53" G="115" R="191"/>
+        <color B="59" G="118" R="197"/>
+        <color B="83" G="141" R="213"/>
+        <color B="102" G="154" R="220"/>
+        <color B="122" G="170" R="228"/>
+        <color B="133" G="179" R="233"/>
+        <color B="148" G="190" R="237"/>
+        <color B="150" G="191" R="236"/>
+        <color B="152" G="187" R="231"/>
+        <color B="158" G="192" R="235"/>
+        <color B="170" G="202" R="238"/>
+        <color B="175" G="204" R="241"/>
+        <color B="164" G="197" R="236"/>
+        <color B="169" G="200" R="239"/>
+        <color B="174" G="206" R="242"/>
+        <color B="191" G="217" R="247"/>
+        <color B="193" G="219" R="249"/>
+        <color B="181" G="209" R="243"/>
+        <color B="170" G="197" R="234"/>
+        <color B="163" G="194" R="233"/>
+        <color B="168" G="203" R="243"/>
+        <color B="149" G="187" R="235"/>
+        <color B="126" G="169" R="226"/>
+        <color B="123" G="163" R="221"/>
+        <color B="109" G="156" R="218"/>
+
+        <color B="41" G="97" R="179"/>
+        <color B="49" G="107" R="189"/>
+        <color B="47" G="103" R="184"/>
+        <color B="36" G="84" R="162"/>
+        <color B="44" G="102" R="184"/>
+        <color B="52" G="111" R="191"/>
+        <color B="68" G="126" R="202"/>
+        <color B="83" G="139" R="210"/>
+        <color B="86" G="140" R="211"/>
+        <color B="93" G="147" R="218"/>
+        <color B="112" G="162" R="222"/>
+        <color B="128" G="174" R="228"/>
+        <color B="140" G="183" R="234"/>
+        <color B="145" G="185" R="234"/>
+        <color B="149" G="187" R="235"/>
+        <color B="162" G="197" R="240"/>
+        <color B="165" G="200" R="240"/>
+        <color B="167" G="200" R="239"/>
+        <color B="164" G="194" R="235"/>
+        <color B="160" G="192" R="233"/>
+        <color B="161" G="193" R="234"/>
+        <color B="170" G="199" R="238"/>
+        <color B="168" G="197" R="236"/>
+        <color B="174" G="201" R="238"/>
+        <color B="174" G="200" R="240"/>
+        <color B="175" G="202" R="239"/>
+        <color B="176" G="205" R="242"/>
+        <color B="160" G="194" R="237"/>
+        <color B="139" G="180" R="229"/>
+        <color B="112" G="156" R="215"/>
+        <color B="100" G="142" R="209"/>
+
+        <color B="61" G="113" R="184"/>
+        <color B="53" G="105" R="181"/>
+        <color B="56" G="107" R="180"/>
+        <color B="47" G="96" R="172"/>
+        <color B="56" G="109" R="182"/>
+        <color B="89" G="139" R="205"/>
+        <color B="88" G="137" R="205"/>
+        <color B="101" G="148" R="210"/>
+        <color B="94" G="145" R="208"/>
+        <color B="107" G="154" R="216"/>
+        <color B="112" G="158" R="216"/>
+        <color B="109" G="157" R="215"/>
+        <color B="120" G="166" R="220"/>
+        <color B="128" G="170" R="223"/>
+        <color B="134" G="172" R="226"/>
+        <color B="151" G="186" R="230"/>
+        <color B="162" G="194" R="235"/>
+        <color B="173" G="202" R="239"/>
+        <color B="176" G="204" R="239"/>
+        <color B="176" G="203" R="237"/>
+        <color B="177" G="202" R="234"/>
+        <color B="184" G="205" R="236"/>
+        <color B="177" G="199" R="234"/>
+        <color B="177" G="202" R="234"/>
+        <color B="181" G="205" R="235"/>
+        <color B="186" G="207" R="238"/>
+        <color B="172" G="200" R="231"/>
+        <color B="163" G="191" R="226"/>
+        <color B="150" G="182" R="223"/>
+        <color B="139" G="170" R="215"/>
+        <color B="116" G="152" R="200"/>
+
+        <color B="48" G="91" R="158"/>
+        <color B="59" G="106" R="180"/>
+        <color B="49" G="98" R="174"/>
+        <color B="46" G="97" R="177"/>
+        <color B="66" G="117" R="190"/>
+        <color B="74" G="123" R="197"/>
+        <color B="79" G="130" R="200"/>
+        <color B="79" G="128" R="198"/>
+        <color B="74" G="123" R="193"/>
+        <color B="87" G="134" R="202"/>
+        <color B="93" G="137" R="201"/>
+        <color B="108" G="149" R="211"/>
+        <color B="109" G="151" R="210"/>
+        <color B="127" G="167" R="220"/>
+        <color B="139" G="176" R="226"/>
+        <color B="158" G="192" R="235"/>
+        <color B="172" G="202" R="237"/>
+        <color B="186" G="209" R="241"/>
+        <color B="184" G="208" R="238"/>
+        <color B="178" G="203" R="235"/>
+        <color B="174" G="199" R="233"/>
+        <color B="166" G="192" R="228"/>
+        <color B="151" G="177" R="217"/>
+        <color B="144" G="171" R="215"/>
+        <color B="140" G="167" R="211"/>
+        <color B="143" G="170" R="214"/>
+        <color B="141" G="170" R="214"/>
+        <color B="124" G="151" R="201"/>
+        <color B="120" G="153" R="203"/>
+        <color B="118" G="149" R="200"/>
+        <color B="107" G="144" R="196"/>
+
+        <color B="4" G="19" R="65"/>
+        <color B="3" G="10" R="30"/>
+        <color B="10" G="33" R="83"/>
+        <color B="15" G="34" R="85"/>
+        <color B="13" G="36" R="82"/>
+        <color B="12" G="32" R="80"/>
+        <color B="10" G="27" R="70"/>
+        <color B="10" G="28" R="75"/>
+        <color B="12" G="30" R="71"/>
+        <color B="16" G="30" R="79"/>
+        <color B="17" G="26" R="69"/>
+        <color B="15" G="30" R="69"/>
+        <color B="9" G="25" R="62"/>
+        <color B="12" G="28" R="65"/>
+        <color B="10" G="30" R="77"/>
+        <color B="15" G="29" R="71"/>
+        <color B="12" G="31" R="76"/>
+        <color B="10" G="32" R="84"/>
+        <color B="13" G="30" R="86"/>
+        <color B="13" G="30" R="81"/>
+        <color B="14" G="31" R="87"/>
+        <color B="12" G="35" R="81"/>
+        <color B="18" G="37" R="74"/>
+        <color B="14" G="41" R="85"/>
+        <color B="17" G="40" R="86"/>
+        <color B="17" G="39" R="91"/>
+        <color B="10" G="40" R="87"/>
+        <color B="11" G="37" R="84"/>
+        <color B="8" G="39" R="90"/>
+        <color B="10" G="33" R="81"/>
+        <color B="6" G="30" R="72"/>
+      </color_set>
+    </mesh>
+  </mesh_set>
+</scene>
