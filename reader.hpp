@@ -2,6 +2,7 @@
 
 #include "tinyxml2.h"
 
+#include <algorithm>
 #include <array>
 #include <fstream>
 #include <iostream>
@@ -137,6 +138,7 @@ public:
         std::string doc_type;
         std::getline(infile, doc_type);
         infile.close();
+        doc_type.erase(std::remove_if(doc_type.begin(), doc_type.end(), [](char c) { return c == '\r' || c == '\n'; }), doc_type.end());
 
         // read xml file
         tinyxml2::XMLDocument doc;
