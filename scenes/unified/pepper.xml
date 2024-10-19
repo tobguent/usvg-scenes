@@ -43,7 +43,7 @@
         <right_color R="113" G="13" B="17" globalID="65"/>
         <right_color R="112" G="11" B="15" globalID="70"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="70"/>
       </left_colors_set>
@@ -174,7 +174,7 @@
         <control_point y="124.5" x="338.5"/>
         <control_point y="123.75" x="338.375"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="135" G="166" B="86" globalID="70"/>
       </right_colors_set>
@@ -933,7 +933,7 @@
         <right_color R="111" G="6" B="10" globalID="33"/>
         <right_color R="139" G="10" B="12" globalID="40"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="40"/>
       </left_colors_set>
@@ -956,7 +956,7 @@
         <control_point y="329.647" x="433.848" />
         <control_point y="334.75" x="437.25" />
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color G="127" B="127" globalID="0" R="127" />
         <right_color G="127" B="127" globalID="30" R="127" />
       </right_colors_set>
@@ -996,7 +996,7 @@
         <right_color G="82" B="58" globalID="15" R="212" />
         <right_color G="90" B="58" globalID="30" R="179" />
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color G="127" B="127" globalID="0" R="127" />
         <left_color G="127" B="127" globalID="30" R="127" />
       </left_colors_set>
@@ -1027,7 +1027,7 @@
         <right_color G="21" B="21" globalID="19" R="218" />
         <right_color G="21" B="21" globalID="40" R="218" />
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color G="127" B="127" globalID="0" R="127" />
         <left_color G="127" B="127" globalID="12" R="127" />
       </left_colors_set>

@@ -19,7 +19,7 @@
         <control_point y="491" x="30"/>
         <control_point y="545" x="-1"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="40"/>
       </right_colors_set>
@@ -84,7 +84,7 @@
         <control_point y="402.875" x="68.8056"/>
         <control_point y="416.5" x="62.75"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="50"/>
       </right_colors_set>
@@ -124,7 +124,7 @@
         <control_point y="322" x="68.75"/>
         <control_point y="347" x="62.75"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="70"/>
       </right_colors_set>
@@ -188,7 +188,7 @@
         <control_point y="248" x="161.25"/>
         <control_point y="268.5" x="140.5"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="150"/>
       </right_colors_set>
@@ -231,7 +231,7 @@
         <control_point y="278.9375" x="174.1875"/>
         <control_point y="271.75" x="181.5"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="133.8" G="133" B="127" globalID="0"/>
         <right_color R="133.8" G="133" B="127" globalID="80"/>
       </right_colors_set>
@@ -278,7 +278,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="80"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="133" B="133.8" globalID="0"/>
         <left_color R="127" G="133" B="133.8" globalID="80"/>
       </left_colors_set>
@@ -346,7 +346,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="50"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="19" G="73" B="68" globalID="0"/>
         <left_color R="13" G="57" B="98" globalID="50"/>
       </left_colors_set>
@@ -417,7 +417,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="40"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="40"/>
       </left_colors_set>
@@ -504,7 +504,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="30"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="30"/>
       </left_colors_set>
@@ -554,7 +554,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="20"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="20"/>
       </left_colors_set>
@@ -616,7 +616,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="40"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="40"/>
       </left_colors_set>
@@ -646,7 +646,7 @@
         <control_point y="1003.7586" x="755.7558"/>
         <control_point y="1023" x="707.5"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="106" G="82" B="54" globalID="0"/>
         <right_color R="13" G="57" B="68" globalID="60"/>
       </right_colors_set>
@@ -684,7 +684,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="60"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="60"/>
       </left_colors_set>
@@ -749,7 +749,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="50"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="50"/>
       </left_colors_set>
@@ -785,7 +785,7 @@
         <control_point y="280.5" x="325.5"/>
         <control_point y="303.5" x="276.5"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="70"/>
       </right_colors_set>
@@ -825,7 +825,7 @@
         <control_point y="216.25" x="405.5"/>
         <control_point y="241.25" x="366.25"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="70"/>
       </right_colors_set>
@@ -865,7 +865,7 @@
         <control_point y="114.25" x="475.75"/>
         <control_point y="136.25" x="454.25"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="70"/>
       </right_colors_set>
@@ -896,7 +896,7 @@
         <control_point y="252.75" x="329.75"/>
         <control_point y="267.25" x="319.25"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="40"/>
       </right_colors_set>
@@ -927,7 +927,7 @@
         <control_point y="271.0876" x="307.836"/>
         <control_point y="285.5876" x="297.336"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="40"/>
       </right_colors_set>
@@ -958,7 +958,7 @@
         <control_point y="179" x="417.25"/>
         <control_point y="195.5876" x="407.836"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="40"/>
       </right_colors_set>
@@ -1010,7 +1010,7 @@
         <control_point y="103.25" x="308.25"/>
         <control_point y="169.25" x="285.25"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="110"/>
       </right_colors_set>
@@ -1050,7 +1050,7 @@
         <control_point y="186.5" x="513.0625"/>
         <control_point y="197" x="514.0625"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="70"/>
       </right_colors_set>
@@ -1090,7 +1090,7 @@
         <control_point y="159.75" x="562.75"/>
         <control_point y="172.25" x="555"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="70"/>
       </right_colors_set>
@@ -1140,7 +1140,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="90"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="90"/>
       </left_colors_set>
@@ -1167,7 +1167,7 @@
         <control_point y="87" x="784.5"/>
         <control_point y="89" x="776.5"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="40"/>
       </right_colors_set>
@@ -1205,7 +1205,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="50"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="50"/>
       </left_colors_set>
@@ -1232,7 +1232,7 @@
         <control_point y="884.8737" x="872.578"/>
         <control_point y="874" x="896.5"/>
       </control_points_set>
-      <right_colors_set boundarx="Neumann">
+      <right_colors_set boundary="Neumann">
         <right_color R="127" G="127" B="127" globalID="0"/>
         <right_color R="127" G="127" B="127" globalID="40"/>
       </right_colors_set>
@@ -1267,7 +1267,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="40"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="40"/>
       </left_colors_set>
@@ -1298,7 +1298,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="40"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="40"/>
       </left_colors_set>
@@ -1329,7 +1329,7 @@
         <right_color R="0" G="0" B="0" globalID="0"/>
         <right_color R="0" G="0" B="0" globalID="40"/>
       </right_colors_set>
-      <left_colors_set boundarx="Neumann">
+      <left_colors_set boundary="Neumann">
         <left_color R="127" G="127" B="127" globalID="0"/>
         <left_color R="127" G="127" B="127" globalID="40"/>
       </left_colors_set>
